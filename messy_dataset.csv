@@ -1,0 +1,2001 @@
+ID,Name,Age,Gender,Income,Signup_Date,Purchase_Amount,City,Membership,Preferred_Channel
+796,david,39,male,83284,17/11/2018,441,Los Angeles,P,Mobile
+469,,18,F,88650,29/05/2022,186,NYC,Gold,In-Store
+479,alice,54,,,03/06/2021,152,New York,,Mobile
+808,Bob,23,male,41880,23/11/2020,140,losangeles,S,1
+506,Bob,15,F,70K,04/06/2022,6889,chicago,gold,In-Store
+280,alice,49,male,57965,06/07/2019,144,chicago,P,In-Store
+144,Alice,57,M,94209,"Aug 24, 2020",37,newyork,Silver,3
+433,david,21,F,44928,"Sep 20, 2019",,New York,G,2
+84,Charlie,64,F,84884,"Aug 26, 2022",429,LA,,2
+957,Eve,70,female,"30,000",21/05/2020,,LA,S,In-Store
+582,,65,male,,12/01/2018,362,NYC,gold,Online
+327,Alice,66,,41694,"Apr 17, 2020",253,New York,SILVER,1
+24,FRANK,33,M,-10000,14/10/2018,4562,New York,S,Mobile
+897,david,,M,93727,09/02/2018,£90,chicago,Platinum,Online
+771,,13,female,72540,"Jan 07, 2022",,LA,Silver,3
+148,Charlie,70,Male,70K,04/02/2020,17,NYC,SILVER,3
+835,Bob,92,male,44125,08/06/2022,6251,Los Angeles,Gold,3
+906,FRANK,59,,40971,20/02/2021,339,newyork,gold,Mobile
+66,Bob,112,Male,50k,18/06/2021,3020,LA,,1
+459,Alice,59,M,"30,000",07/08/2018,284,losangeles,S,2
+998,,26,F,87213,29/10/2019,£90,Los Angeles,,Online
+793,alice,,female,-10000,29/04/2021,,NYC,Gold,2
+770,Alice,,M,,23/04/2023,5185,New York,S,1
+258,,,male,59768,09/03/2020,,chicago,S,2
+353,FRANK,,female,58844,27/05/2021,421,LA,,In-Store
+267,Eve,23,Male,92371,"Apr 25, 2018",7972,NYC,gold,Online
+683,Alice,18,F,42427,27/01/2020,9645,newyork,gold,In-Store
+43,FRANK,46,female,25978,16/08/2018,,newyork,S,2
+529,Bob,34,female,,16/03/2022,463,LA,P,Online
+98,FRANK,,M,58252,07/05/2022,1998,chicago,SILVER,Online
+72,david,54,F,39416,25/11/2022,171,New York,SILVER,Online
+868,Bob,,F,37428,21/03/2021,£90,chicago,Platinum,Mobile
+14,FRANK,51,F,26752,16/06/2020,438,newyork,S,Online
+412,Charlie,53,F,50k,"Jan 24, 2021",$120,Chicago,Silver,2
+565,Alice,40,F,90070,"Aug 01, 2022",439,LA,gold,Mobile
+831,FRANK,,M,20183,15/10/2018,£90,Chicago,Platinum,3
+839,FRANK,,,70K,"Dec 03, 2021",139,Los Angeles,Gold,Mobile
+124,Charlie,119,F,"30,000",10/01/2020,129,newyork,P,In-Store
+702,alice,49,M,62540,16/03/2019,424,newyork,P,Mobile
+343,alice,115,M,91994,12/04/2019,451,losangeles,Gold,Online
+673,Charlie,74,F,37512,"Feb 12, 2019",9854,NYC,Gold,2
+797,Charlie,21,Male,58652,12/03/2022,373,chicago,SILVER,Mobile
+803,Bob,86,male,27505,08/08/2021,99,LA,Gold,In-Store
+828,alice,70,F,50k,09/07/2022,77,newyork,Silver,2
+294,Alice,,male,48741,31/08/2022,435,newyork,Gold,Online
+669,Eve,12,M,43165,2021-13-40,,LA,SILVER,3
+620,david,46,f,22049,14/06/2020,4709,New York,S,Mobile
+716,Alice,49,Male,,"Nov 24, 2022",8365,LA,SILVER,Mobile
+676,david,43,M,"30,000","Oct 04, 2020",276,Los Angeles,gold,1
+893,Alice,53,Male,70067,23/07/2021,131,newyork,,2
+138,FRANK,,M,70K,03/03/2021,2690,Chicago,SILVER,1
+216,Eve,,,"30,000",18/05/2022,67,NYC,Gold,1
+161,,,female,"30,000",24/06/2022,9191,NYC,Silver,Mobile
+28,alice,106,female,77958,17/08/2020,210,New York,,3
+277,Eve,41,female,62501,21/04/2022,493,New York,G,3
+622,Alice,,f,46728,11/08/2020,4442,Los Angeles,G,In-Store
+926,david,,Male,"30,000",22/02/2022,274,LA,gold,2
+988,Eve,,,40400,30/05/2018,,Chicago,,Online
+390,FRANK,46,M,500000,27/11/2019,374,Chicago,Gold,In-Store
+423,Alice,66,male,68318,19/11/2021,4474,NYC,Silver,Online
+265,FRANK,,Male,82784,2021-13-40,84,Chicago,Platinum,3
+173,Eve,,Male,85006,2021-13-40,32,Los Angeles,Platinum,2
+316,Bob,,Male,80213,"Apr 07, 2019",17,New York,G,3
+732,FRANK,24,M,43083,15/06/2019,127,chicago,Gold,2
+254,,,Male,94666,"Apr 22, 2022",465,New York,Silver,2
+965,,65,female,-10000,31/08/2021,18,newyork,,In-Store
+400,alice,34,male,56968,"Mar 22, 2021",364,Chicago,S,Online
+798,,20,M,60653,04/01/2022,,chicago,,1
+232,FRANK,31,male,43295,31/10/2018,246,newyork,,In-Store
+252,Charlie,63,f,99668,26/07/2018,204,New York,Platinum,Mobile
+355,alice,66,M,29103,19/04/2023,33,newyork,SILVER,1
+960,alice,58,M,29443,"Jan 11, 2021",270,New York,Gold,2
+886,FRANK,105,M,52145,"Nov 02, 2019",8878,New York,P,3
+875,Eve,,f,-10000,09/09/2021,72,losangeles,,3
+804,Bob,26,,33137,01/12/2018,290,Los Angeles,,Online
+67,,,,,23/04/2019,428,Chicago,Gold,3
+354,Bob,139,f,21545,25/02/2018,106,Chicago,G,In-Store
+247,,,,50k,19/04/2023,206,newyork,Platinum,1
+524,Charlie,,M,70330,26/04/2023,157,NYC,S,2
+856,Eve,70,male,34422,12/11/2022,479,losangeles,G,2
+938,FRANK,,f,25733,04/07/2020,469,Los Angeles,S,Online
+184,Bob,119,female,52550,26/02/2019,,Chicago,gold,3
+61,Bob,,male,55082,13/09/2018,485,New York,Platinum,In-Store
+574,FRANK,53,,98595,03/11/2020,342,New York,SILVER,Online
+92,Eve,77,,21231,06/03/2019,338,losangeles,Platinum,In-Store
+69,Eve,46,f,91089,"Feb 25, 2022",311,chicago,Silver,3
+739,alice,,f,31136,11/10/2019,,chicago,Silver,2
+988,,121,female,38249,"Jul 05, 2018",412,losangeles,Silver,3
+768,Charlie,130,M,-10000,07/11/2020,€100,New York,S,3
+750,alice,,Male,500000,03/02/2018,410,New York,Platinum,1
+813,FRANK,31,,63483,10/05/2020,,NYC,G,Mobile
+360,alice,,M,500000,"Jul 24, 2018",3265,chicago,Silver,In-Store
+225,Alice,,M,27323,27/09/2019,171,Los Angeles,Gold,3
+133,FRANK,,,,"Oct 03, 2022",219,newyork,Silver,1
+250,,,M,91252,07/12/2021,6183,losangeles,P,2
+33,Eve,,,22779,18/07/2022,2600,New York,SILVER,2
+927,Alice,,F,33476,"Feb 02, 2018",11,New York,SILVER,Online
+172,Bob,,F,,"Jan 12, 2023",385,chicago,Gold,Mobile
+685,,126,,33443,02/10/2022,244,Los Angeles,,Mobile
+123,FRANK,,female,,19/01/2018,478,chicago,,2
+751,Charlie,-4,,38590,15/10/2018,11,NYC,Gold,Mobile
+528,Alice,,f,49401,06/05/2018,428,Los Angeles,Platinum,Mobile
+601,Charlie,41,Male,49710,"Sep 15, 2021",493,New York,P,1
+115,alice,31,F,70512,29/04/2020,497,chicago,Gold,Mobile
+2,Alice,61,f,66309,24/12/2018,7212,newyork,,2
+197,Charlie,21,female,70K,18/07/2022,$120,newyork,,2
+407,Bob,66,,70429,10/03/2023,20,NYC,P,Mobile
+915,david,40,male,"30,000",03/03/2018,233,NYC,Gold,3
+332,FRANK,57,,84463,"Apr 06, 2020",469,Los Angeles,G,Online
+464,FRANK,133,F,34435,"Jun 28, 2019",7388,Chicago,Gold,2
+184,,,male,33334,"Feb 22, 2018",147,New York,gold,Mobile
+402,Alice,2,male,66833,21/08/2020,47,chicago,gold,In-Store
+364,Charlie,,f,63741,23/10/2018,473,NYC,,2
+68,alice,38,f,67250,12/02/2020,7438,Chicago,SILVER,3
+678,FRANK,18,male,25681,"Jan 31, 2018",163,chicago,Silver,Online
+369,FRANK,57,F,50k,08/07/2018,372,newyork,gold,1
+943,alice,,male,76181,19/08/2018,370,newyork,gold,2
+70,Bob,52,female,,30/04/2020,154,NYC,Silver,1
+820,Charlie,39,female,98592,20/05/2021,423,New York,G,2
+164,FRANK,,,75737,"Aug 19, 2020",£90,LA,Platinum,3
+377,,22,female,59526,"Sep 06, 2021",61,losangeles,Platinum,Online
+581,FRANK,65,,70K,30/09/2021,324,LA,gold,3
+592,Eve,0,F,33621,14/03/2022,5405,Chicago,gold,Mobile
+32,david,132,f,85437,20/11/2020,8691,NYC,S,Mobile
+427,Bob,,,70K,20/10/2018,277,chicago,,In-Store
+420,Alice,-9,F,30009,03/03/2022,1246,NYC,SILVER,2
+709,Charlie,47,M,39482,02/08/2019,405,newyork,,2
+760,alice,,,50k,29/05/2019,,NYC,S,2
+905,,,Male,39369,"Sep 09, 2019",230,chicago,,1
+788,Bob,67,M,78549,"Aug 04, 2020",290,New York,Gold,Online
+188,Eve,,,500000,"Sep 27, 2018",160,chicago,S,1
+548,Eve,,male,95739,16/09/2021,,LA,G,Online
+624,alice,38,F,56500,30/03/2023,203,LA,Platinum,3
+972,david,29,,31855,26/06/2022,,Los Angeles,Silver,Online
+276,Eve,68,f,36716,15/06/2022,7639,Chicago,G,1
+635,alice,,F,70465,30/01/2018,208,New York,gold,Mobile
+292,david,13,male,61853,07/09/2022,8522,newyork,gold,1
+38,Bob,,F,1000000,23/10/2019,280,Los Angeles,Platinum,1
+546,Charlie,74,F,-10000,"Sep 17, 2020",286,LA,Gold,In-Store
+950,Bob,,,98871,16/11/2022,295,LA,SILVER,In-Store
+496,alice,,female,70K,16/03/2019,,newyork,P,1
+33,Charlie,70,Male,52231,22/01/2021,,newyork,G,Mobile
+259,alice,78,M,74874,"Jul 27, 2019",2938,losangeles,G,Mobile
+833,Bob,,male,,02/01/2023,£90,newyork,Gold,1
+931,FRANK,,female,-10000,11/07/2022,8951,NYC,S,Online
+292,FRANK,38,,,23/07/2020,2190,Chicago,Silver,Online
+880,Bob,,male,-10000,"Dec 03, 2019",25,New York,P,1
+240,Eve,64,M,,19/01/2020,421,newyork,Gold,Mobile
+480,Eve,,f,70413,30/05/2023,8024,losangeles,P,In-Store
+298,Charlie,120,Male,96148,20/06/2023,195,newyork,P,1
+333,Charlie,1,F,89067,"Sep 04, 2018",$120,Los Angeles,SILVER,1
+224,FRANK,39,,"30,000","Dec 13, 2019",8446,LA,S,Online
+731,david,50,f,31436,07/02/2021,21,NYC,SILVER,In-Store
+932,Bob,,,67409,14/06/2023,4878,newyork,SILVER,1
+653,david,18,M,46644,12/04/2023,21,New York,P,3
+519,Charlie,,M,67500,25/10/2021,77,LA,Gold,2
+101,david,45,male,,"Feb 11, 2019",461,LA,,Online
+549,alice,,F,500000,17/05/2022,242,chicago,G,Mobile
+234,Alice,,F,27808,22/12/2020,9552,chicago,Silver,2
+626,FRANK,61,f,67298,13/01/2020,4060,newyork,gold,2
+476,FRANK,47,,58626,23/12/2020,17,Chicago,P,Online
+25,alice,23,F,500000,25/07/2018,50,New York,gold,In-Store
+176,Charlie,,,,26/10/2022,,Los Angeles,SILVER,Mobile
+536,Bob,22,,51784,19/03/2022,399,newyork,Platinum,In-Store
+696,Bob,94,f,49437,11/05/2023,7038,Chicago,gold,3
+803,Eve,93,female,38061,25/07/2019,491,losangeles,S,Online
+809,,-6,M,38753,28/04/2023,411,losangeles,Silver,2
+978,alice,,M,23453,20/01/2023,€100,NYC,SILVER,Mobile
+110,,18,female,68717,"Aug 16, 2020",271,Los Angeles,Platinum,In-Store
+801,,66,Male,33894,2021-13-40,500,newyork,P,1
+504,Bob,8,female,"30,000","May 30, 2019",245,chicago,Platinum,3
+659,Charlie,17,,82498,11/02/2022,€100,Chicago,Platinum,1
+628,FRANK,,Male,50k,20/04/2020,371,NYC,G,2
+689,Bob,62,male,39252,12/08/2022,353,chicago,Platinum,2
+580,alice,,male,38517,11/07/2022,259,LA,G,In-Store
+157,alice,19,M,52118,23/11/2018,207,New York,Silver,3
+546,FRANK,52,female,21635,01/02/2019,4029,newyork,S,2
+516,Charlie,,f,70K,25/05/2018,59,LA,Platinum,1
+266,Charlie,26,,43910,20/07/2019,,losangeles,Gold,Mobile
+884,Charlie,61,female,-10000,10/09/2018,3370,losangeles,S,Mobile
+208,,53,female,89133,"Oct 19, 2018",57,losangeles,Silver,Mobile
+652,Alice,25,female,81628,23/01/2018,7599,NYC,Gold,1
+956,Bob,142,,64215,09/12/2020,233,Chicago,G,1
+369,Charlie,52,F,-10000,10/05/2021,100,New York,Platinum,In-Store
+911,Eve,,F,57587,"Jun 16, 2020",82,newyork,gold,Mobile
+305,Charlie,65,male,40432,13/01/2021,8823,NYC,,Online
+183,Charlie,44,F,24209,"Dec 08, 2022",272,NYC,SILVER,2
+289,FRANK,28,Male,50k,29/04/2023,2219,NYC,Gold,Mobile
+359,david,57,female,,"Dec 31, 2022",$120,losangeles,G,3
+200,FRANK,,F,21424,13/08/2020,379,NYC,S,In-Store
+462,Eve,69,male,75524,30/11/2022,146,newyork,P,In-Store
+64,Bob,130,F,70K,06/04/2019,63,Chicago,,3
+814,Eve,59,Male,,"Feb 07, 2022",,Chicago,P,In-Store
+122,david,7,M,94981,07/10/2022,358,LA,Gold,Mobile
+45,Eve,,female,,27/05/2023,200,Chicago,Silver,In-Store
+713,Charlie,114,F,49794,30/07/2021,$120,LA,Platinum,In-Store
+966,Eve,,f,40552,"Jul 28, 2019",232,chicago,,Mobile
+579,Bob,59,M,32050,"Aug 04, 2021",,Chicago,Platinum,2
+714,Charlie,36,Male,,"Sep 09, 2022",11,Chicago,Gold,Online
+967,Charlie,71,male,36401,20/06/2018,3318,newyork,S,Online
+362,Charlie,,Male,72481,09/07/2022,442,Los Angeles,Gold,Mobile
+287,FRANK,,f,50k,10/10/2020,264,chicago,Platinum,Online
+171,Alice,,female,71418,"Sep 25, 2021",373,Chicago,Silver,1
+909,Alice,83,male,93307,19/05/2022,1295,New York,Gold,3
+459,Bob,45,Male,50k,12/09/2022,42,New York,Platinum,In-Store
+99,Alice,38,,1000000,18/11/2022,7542,LA,Platinum,Mobile
+435,Eve,101,f,73097,09/08/2018,483,LA,Silver,Online
+639,david,,female,41603,29/08/2018,219,chicago,Platinum,3
+737,,74,F,68690,09/10/2021,496,LA,Gold,Mobile
+502,Alice,104,Male,70K,11/01/2022,245,New York,S,Mobile
+295,alice,68,male,55378,03/06/2022,118,Los Angeles,Gold,In-Store
+737,Eve,53,male,33683,20/03/2021,152,chicago,G,1
+843,Eve,59,Male,67540,24/07/2022,$120,NYC,,2
+345,alice,,F,70K,22/02/2018,,NYC,gold,Online
+342,david,,M,51395,"Feb 19, 2018",480,New York,Platinum,Mobile
+882,,,male,41333,01/03/2023,,chicago,SILVER,2
+719,Eve,,male,,02/02/2022,6375,LA,Gold,Mobile
+402,alice,,M,28561,"Jun 04, 2019",12,newyork,,Mobile
+730,Bob,,f,98264,"Dec 06, 2019",55,NYC,gold,1
+358,Alice,,female,60516,"May 25, 2019",£90,Chicago,Gold,Mobile
+19,Charlie,,Male,92311,"Apr 08, 2018",9465,LA,Silver,2
+657,alice,28,F,24242,"Jul 24, 2021",92,New York,Gold,Online
+393,,,Male,55280,25/11/2018,377,New York,gold,1
+634,alice,64,M,94727,"Nov 04, 2022",$120,Chicago,G,In-Store
+672,alice,,female,50k,"Mar 23, 2022",79,Los Angeles,Gold,1
+304,david,91,Male,70K,19/12/2018,47,Chicago,Silver,2
+667,FRANK,,male,26297,"Nov 15, 2019",492,newyork,Gold,1
+631,Charlie,,M,32217,24/02/2022,,Los Angeles,G,Online
+752,FRANK,28,,21111,19/09/2019,13,losangeles,S,In-Store
+275,FRANK,46,F,57015,05/07/2018,$120,Los Angeles,G,Mobile
+637,FRANK,,F,85564,15/10/2020,412,LA,Gold,In-Store
+18,,113,male,61218,"Feb 19, 2019",492,LA,SILVER,Mobile
+560,Charlie,46,Male,66640,"Sep 21, 2020",,Chicago,S,1
+487,FRANK,6,male,32763,"Jun 15, 2020",1966,LA,G,Online
+316,Bob,41,female,73383,19/05/2023,69,chicago,Silver,In-Store
+253,FRANK,,F,,17/08/2018,7091,New York,P,In-Store
+617,david,82,F,85821,"Feb 05, 2023",322,newyork,S,In-Store
+994,alice,48,f,23104,07/01/2021,442,NYC,P,3
+364,Bob,20,Male,70K,25/11/2021,$120,Los Angeles,S,In-Store
+873,Eve,,F,-10000,05/07/2018,2411,Chicago,Silver,2
+29,alice,,,58026,"Oct 26, 2018",105,losangeles,gold,Mobile
+357,david,52,male,39862,23/03/2020,51,LA,G,3
+226,Charlie,86,male,70K,"Aug 01, 2018",390,Chicago,Platinum,2
+945,Bob,,,32227,12/06/2023,126,newyork,Gold,Mobile
+783,Alice,34,male,48265,06/04/2019,$120,newyork,Gold,Mobile
+983,Eve,93,M,"30,000",19/05/2019,3230,New York,,In-Store
+297,,78,F,41108,15/07/2019,32,newyork,Platinum,In-Store
+204,,,,,03/09/2022,246,NYC,Gold,Online
+832,david,18,f,,08/04/2019,424,newyork,G,Mobile
+810,Charlie,46,f,"30,000",2021-13-40,313,Los Angeles,P,3
+596,FRANK,,F,,15/05/2019,358,chicago,S,2
+539,FRANK,35,male,78652,16/09/2020,12,newyork,P,In-Store
+537,david,30,female,64436,02/02/2021,€100,New York,SILVER,2
+198,Charlie,,female,67227,03/10/2022,2419,losangeles,S,1
+538,alice,96,M,70K,25/12/2022,,losangeles,SILVER,In-Store
+915,alice,19,female,70807,"Dec 18, 2021",6116,New York,SILVER,Online
+431,alice,112,male,47370,24/06/2019,,Los Angeles,G,Mobile
+970,Eve,31,female,"30,000",18/01/2023,367,Los Angeles,Gold,Online
+940,alice,59,f,39975,02/01/2020,126,New York,S,In-Store
+133,Alice,33,f,"30,000","Oct 03, 2018",3307,New York,SILVER,2
+396,Bob,54,F,500000,09/12/2021,9550,New York,,1
+75,,26,M,38693,31/03/2021,€100,New York,SILVER,1
+889,alice,54,male,91714,22/02/2023,4495,Chicago,SILVER,In-Store
+660,david,28,Male,85393,03/08/2018,186,Los Angeles,S,3
+475,david,,male,79612,09/01/2022,314,LA,Silver,2
+478,FRANK,,F,42245,22/03/2021,152,Chicago,,2
+426,Alice,64,Male,41164,15/06/2020,$120,chicago,gold,Online
+595,Alice,,,56715,13/05/2018,438,Los Angeles,gold,1
+794,Eve,48,F,70K,07/07/2020,329,NYC,,In-Store
+854,alice,,female,31695,03/09/2020,,New York,Gold,Online
+418,alice,27,,43486,27/12/2019,252,New York,,1
+774,Eve,120,male,1000000,"Jul 20, 2019",422,NYC,gold,Mobile
+87,Alice,77,female,1000000,30/01/2022,425,NYC,,In-Store
+163,Bob,56,M,-10000,02/10/2020,,LA,Platinum,2
+114,,86,female,36248,15/04/2023,119,NYC,S,In-Store
+428,Charlie,26,F,70K,17/03/2019,28,Chicago,S,In-Store
+386,Eve,,F,67641,"Nov 28, 2021",180,New York,,Online
+397,FRANK,61,F,72551,13/03/2021,88,New York,Silver,Mobile
+657,,56,female,36906,"Jan 10, 2021",406,NYC,SILVER,Online
+375,FRANK,,Male,1000000,12/06/2023,,Chicago,SILVER,1
+334,Alice,,f,,04/01/2020,7607,newyork,S,1
+410,,66,Male,70K,26/05/2018,360,Los Angeles,Platinum,2
+880,Alice,,M,30943,04/02/2022,45,newyork,Platinum,In-Store
+976,david,,f,70K,25/05/2019,€100,chicago,G,Online
+481,FRANK,,F,,02/03/2018,461,Los Angeles,G,Mobile
+46,Eve,44,M,1000000,11/11/2019,234,chicago,S,3
+448,Bob,125,f,50k,06/04/2020,278,chicago,G,In-Store
+344,,113,,"30,000",20/02/2020,182,New York,gold,2
+88,alice,,f,52088,05/12/2019,225,Chicago,P,In-Store
+465,Eve,66,,,29/12/2019,,New York,P,1
+11,Bob,24,M,40258,"Dec 06, 2022",217,losangeles,Gold,1
+490,Charlie,48,F,58097,"Jan 13, 2019",289,LA,S,2
+429,Bob,,female,40736,"Apr 10, 2019",29,NYC,Platinum,In-Store
+307,,44,,70K,20/07/2021,239,Chicago,Platinum,1
+214,FRANK,,,49235,20/03/2022,311,chicago,Gold,Online
+208,FRANK,,,80591,11/02/2018,,LA,Silver,1
+877,FRANK,,male,50k,"May 02, 2018",377,Chicago,Platinum,In-Store
+403,Charlie,70,F,81063,2021-13-40,466,Los Angeles,gold,In-Store
+22,david,41,male,-10000,"Feb 27, 2020",486,New York,Platinum,Mobile
+62,,139,male,,"Jan 28, 2023",,New York,G,Online
+215,Alice,127,female,500000,12/05/2023,,New York,SILVER,In-Store
+387,Alice,,f,43628,25/06/2021,290,LA,,Online
+641,Alice,35,F,72028,"Mar 24, 2019",100,Los Angeles,Platinum,In-Store
+667,Charlie,,F,46145,31/10/2021,419,Los Angeles,Gold,2
+561,FRANK,35,F,63086,21/03/2021,205,Chicago,P,In-Store
+951,alice,132,f,61587,17/12/2021,5881,NYC,Gold,2
+488,alice,,male,99215,26/07/2022,478,NYC,SILVER,Online
+587,Charlie,,f,500000,21/03/2018,286,Los Angeles,P,Mobile
+581,Charlie,,female,500000,"Oct 01, 2019",179,chicago,G,2
+545,FRANK,,Male,79582,30/10/2021,37,NYC,Platinum,Mobile
+646,FRANK,28,F,91444,09/12/2018,€100,NYC,Platinum,Online
+3,Charlie,92,f,81599,20/05/2021,370,NYC,Gold,In-Store
+816,,,Male,47979,"Feb 28, 2023",211,losangeles,G,In-Store
+440,Eve,62,male,94475,17/03/2023,239,NYC,Silver,Online
+90,FRANK,42,,98784,18/04/2023,6497,losangeles,S,1
+350,alice,27,male,28178,"May 15, 2018",50,LA,gold,Online
+255,Eve,56,M,76375,17/10/2018,213,losangeles,S,3
+456,alice,22,f,500000,02/10/2020,115,newyork,,2
+138,Alice,,female,47720,"Mar 27, 2018",3994,LA,S,Online
+217,FRANK,88,M,75433,02/03/2023,314,newyork,Gold,Online
+764,FRANK,123,f,53039,07/02/2023,286,New York,gold,2
+576,Bob,63,Male,50k,"Jul 06, 2018",471,Los Angeles,S,In-Store
+758,,,f,38577,27/02/2021,64,LA,Silver,3
+997,Eve,49,f,55901,10/08/2021,262,New York,Gold,In-Store
+493,Alice,122,f,30709,05/10/2018,6070,NYC,gold,In-Store
+512,alice,,male,79168,23/08/2019,351,losangeles,P,Mobile
+383,Eve,,F,88783,12/02/2020,2666,Los Angeles,Silver,2
+83,david,32,F,54006,03/10/2020,61,losangeles,gold,In-Store
+696,Alice,-1,,27044,18/09/2020,61,Los Angeles,Platinum,1
+836,alice,33,female,76168,"May 30, 2022",£90,LA,P,2
+744,Charlie,60,Male,58915,02/12/2021,58,Chicago,gold,1
+927,,91,M,46031,27/03/2018,1312,Chicago,S,Online
+257,Charlie,,Male,74932,21/09/2019,178,New York,Platinum,2
+270,david,18,,1000000,22/02/2022,370,chicago,Gold,Online
+627,Alice,,Male,,"Apr 07, 2018",£90,losangeles,S,Online
+485,Bob,139,female,77250,22/12/2019,37,Chicago,,Online
+125,david,40,,94752,02/11/2021,3902,LA,P,3
+428,Alice,39,,21301,09/12/2020,334,LA,Gold,Online
+717,alice,43,M,,26/10/2021,217,LA,S,In-Store
+177,FRANK,34,F,50k,22/07/2018,7077,Chicago,G,3
+298,,,F,95823,02/01/2023,171,Chicago,G,2
+749,Charlie,118,male,50k,30/05/2018,367,chicago,SILVER,3
+526,,,M,61486,15/03/2021,359,newyork,SILVER,Mobile
+682,david,,male,39727,21/02/2020,10,New York,gold,1
+524,,103,female,500000,2021-13-40,351,NYC,Silver,Online
+892,alice,54,Male,1000000,"May 08, 2019",103,New York,Silver,1
+58,Alice,76,F,73265,09/03/2020,€100,newyork,S,In-Store
+856,Charlie,,Male,88248,12/09/2022,6854,LA,SILVER,In-Store
+743,david,19,Male,79055,18/10/2018,15,New York,P,Mobile
+389,FRANK,7,f,78894,13/06/2019,450,newyork,SILVER,1
+855,alice,,f,"30,000","Dec 25, 2021",398,NYC,Gold,3
+388,,48,f,24782,"Dec 05, 2022",50,newyork,Platinum,3
+978,FRANK,,f,44596,21/01/2018,66,newyork,SILVER,3
+954,Charlie,,F,91576,"Feb 12, 2020",119,Los Angeles,S,Mobile
+782,alice,53,F,98766,24/01/2019,474,chicago,Silver,3
+656,FRANK,,M,48329,22/01/2018,418,LA,gold,1
+425,FRANK,65,f,47494,21/04/2022,5253,New York,S,Online
+953,Eve,35,F,95607,13/11/2021,£90,newyork,P,2
+629,alice,38,,68530,23/08/2018,6567,Chicago,Gold,3
+980,david,54,male,22122,09/06/2022,234,newyork,S,Mobile
+695,david,38,F,60234,"Jan 04, 2021",32,New York,P,Mobile
+291,Eve,65,Male,,"Feb 24, 2022",$120,losangeles,gold,2
+663,Eve,51,Male,85422,04/01/2022,£90,NYC,gold,Mobile
+902,david,31,M,70K,"Aug 10, 2019",442,chicago,,Online
+511,Eve,148,Male,73790,20/06/2019,247,LA,,3
+722,Eve,27,f,66165,19/03/2020,1811,losangeles,Platinum,1
+724,david,,male,,10/02/2021,372,newyork,Platinum,2
+961,alice,18,M,88572,27/11/2020,6999,chicago,SILVER,2
+215,FRANK,,f,34860,12/08/2018,1459,Los Angeles,Platinum,In-Store
+545,alice,,f,80138,03/09/2022,351,losangeles,Silver,In-Store
+175,FRANK,35,F,68905,11/04/2022,34,Los Angeles,Platinum,Online
+523,Eve,120,F,92450,"Jun 14, 2021",211,Chicago,S,Mobile
+478,Eve,,F,50k,20/10/2018,500,LA,Platinum,Mobile
+796,Bob,,Male,,26/03/2018,4542,newyork,gold,3
+411,,98,Male,70012,"Jan 24, 2022",405,Los Angeles,,In-Store
+859,,,female,77343,30/01/2018,114,losangeles,Silver,In-Store
+120,FRANK,,f,70K,"May 01, 2023",2941,chicago,Silver,3
+862,Charlie,34,male,50k,19/12/2019,152,New York,S,In-Store
+401,Eve,122,f,33606,12/08/2021,74,New York,P,Online
+116,Alice,38,F,22153,"Nov 10, 2018",459,LA,SILVER,1
+675,Eve,43,male,70K,07/04/2019,229,NYC,,3
+619,Bob,15,F,85064,19/11/2019,269,newyork,P,3
+406,FRANK,146,,"30,000",21/06/2020,5656,NYC,Platinum,1
+921,alice,130,M,78209,"May 17, 2021",46,newyork,,1
+621,Eve,58,,,"Oct 21, 2018",,losangeles,Gold,2
+505,alice,77,male,50k,03/11/2021,330,NYC,S,Online
+611,david,117,male,70K,30/12/2020,2536,NYC,P,Mobile
+840,david,,,47770,"Dec 14, 2018",344,Chicago,Gold,Mobile
+745,Eve,85,Male,79589,21/10/2018,460,NYC,G,1
+353,Eve,61,female,,2021-13-40,3855,newyork,Silver,Mobile
+137,Charlie,29,Male,35007,30/04/2018,,losangeles,P,1
+515,Bob,54,male,81548,03/09/2018,187,losangeles,P,3
+415,david,64,M,65955,2021-13-40,475,New York,gold,Mobile
+938,david,100,Male,1000000,15/08/2022,361,LA,,In-Store
+962,Alice,,female,"30,000",13/08/2021,6578,Chicago,SILVER,1
+852,david,27,f,20996,15/06/2021,33,NYC,Silver,Online
+17,david,97,F,49351,13/03/2022,208,New York,Gold,3
+346,Alice,,male,,"Jun 08, 2021",27,New York,gold,Online
+756,Bob,70,Male,55076,27/07/2021,218,chicago,G,2
+109,,,f,70K,15/01/2023,£90,newyork,G,Mobile
+806,FRANK,2,,74357,"Dec 07, 2022",1213,Los Angeles,Gold,Mobile
+520,alice,24,Male,50k,11/08/2019,1314,New York,S,In-Store
+529,Bob,55,f,74336,"Mar 06, 2020",302,LA,Platinum,3
+116,Charlie,14,M,22035,24/01/2020,492,Chicago,P,2
+223,Alice,75,male,40103,07/09/2019,,Chicago,Silver,3
+455,Charlie,,F,88021,20/04/2020,47,New York,Silver,Online
+567,,55,M,70K,"Sep 14, 2018",,New York,Silver,Online
+936,alice,19,male,42336,11/04/2020,377,NYC,G,3
+189,alice,40,male,70K,01/08/2020,€100,newyork,P,1
+278,david,,f,92841,06/03/2020,32,Los Angeles,Silver,1
+173,Eve,59,Male,45252,30/10/2019,255,newyork,G,1
+899,FRANK,62,f,"30,000",21/12/2020,,chicago,Silver,1
+875,Eve,120,female,26760,30/12/2021,365,NYC,Platinum,3
+984,Alice,67,male,70K,"Apr 26, 2023",3053,New York,SILVER,1
+916,Bob,147,F,71172,27/01/2021,349,NYC,SILVER,Mobile
+452,david,47,f,72837,21/09/2019,301,newyork,Gold,Online
+109,Alice,76,Male,87800,21/08/2020,167,Los Angeles,G,Mobile
+82,Charlie,,,77331,"Jul 15, 2020",7143,newyork,,In-Store
+31,,43,f,33051,12/05/2023,20,Chicago,G,3
+228,Charlie,28,,86093,"Mar 21, 2019",211,NYC,S,1
+181,Alice,,female,95619,17/11/2018,€100,losangeles,Silver,3
+160,,,f,54108,03/06/2020,398,NYC,G,1
+308,alice,91,f,,18/02/2018,181,newyork,Platinum,Online
+419,Charlie,,f,62258,28/09/2021,14,New York,P,In-Store
+788,Eve,123,f,32223,08/03/2022,92,LA,Platinum,Online
+27,Alice,44,Male,23360,23/03/2021,6700,losangeles,G,2
+165,Alice,,F,21512,11/10/2019,47,New York,SILVER,In-Store
+385,Eve,,f,"30,000",21/02/2022,$120,chicago,G,2
+444,Bob,62,M,23646,"Sep 23, 2020",170,Chicago,P,Online
+182,FRANK,28,F,"30,000",13/04/2022,76,Chicago,P,3
+902,Eve,6,Male,,31/05/2022,104,losangeles,Silver,3
+588,alice,53,female,94946,18/01/2018,64,Los Angeles,G,Mobile
+194,alice,,Male,23314,"Jul 04, 2018",£90,LA,Silver,1
+895,Charlie,66,Male,79468,01/01/2020,104,LA,,2
+10,alice,34,,"30,000",16/05/2023,2001,Chicago,S,Online
+661,Eve,89,F,44452,"May 16, 2018",4060,New York,G,1
+735,david,,,49065,09/10/2019,3448,LA,Gold,3
+648,Bob,,male,45405,11/12/2021,414,newyork,G,Online
+155,FRANK,,male,,27/07/2018,167,newyork,Silver,3
+28,Charlie,28,M,69559,08/11/2018,448,chicago,G,2
+416,alice,81,male,26782,26/12/2020,45,Chicago,Gold,Online
+308,Eve,,male,30874,05/02/2021,387,Los Angeles,gold,In-Store
+379,Charlie,130,Male,23033,30/07/2019,302,LA,SILVER,In-Store
+382,Alice,26,Male,"30,000",21/09/2021,339,Chicago,Gold,In-Store
+50,FRANK,142,F,34540,18/07/2018,439,New York,gold,Online
+658,Eve,134,Male,-10000,20/02/2020,1760,NYC,Platinum,3
+738,david,126,Male,34034,16/12/2018,135,NYC,Silver,Online
+720,Charlie,,M,57022,"Aug 03, 2022",336,losangeles,Silver,1
+971,,12,,43675,12/04/2021,,Los Angeles,G,1
+760,,83,male,30142,10/02/2018,,New York,,3
+925,FRANK,29,f,1000000,"Mar 06, 2021",271,losangeles,SILVER,2
+686,Bob,,f,71222,"Jun 24, 2018",134,chicago,SILVER,3
+352,,24,Male,84361,"Oct 04, 2018",87,Los Angeles,G,1
+422,Bob,,male,74230,21/02/2023,55,LA,Silver,Online
+349,Charlie,115,Male,83768,30/03/2023,211,chicago,SILVER,1
+823,Charlie,-8,,50k,"Oct 19, 2019",$120,newyork,P,3
+440,alice,,,75038,28/04/2023,325,LA,gold,1
+414,FRANK,,,61102,2021-13-40,154,Los Angeles,,3
+326,david,38,f,70K,30/12/2022,6480,losangeles,G,1
+161,Alice,101,male,43567,"Jan 18, 2020",€100,Chicago,Gold,In-Store
+922,Eve,,f,21329,28/07/2019,9897,NYC,P,Mobile
+879,,89,male,94356,30/01/2023,€100,chicago,S,In-Store
+370,david,32,Male,"30,000","May 05, 2019",4048,Chicago,S,In-Store
+753,alice,45,F,35362,"Jun 05, 2020",97,newyork,gold,In-Store
+203,Eve,,female,65453,16/03/2022,7938,newyork,S,In-Store
+900,FRANK,59,Male,-10000,13/11/2019,95,losangeles,SILVER,3
+919,Eve,126,,"30,000",13/03/2023,33,NYC,S,1
+212,Alice,44,M,40760,"Feb 09, 2018",498,newyork,G,Online
+718,Eve,24,M,,27/01/2023,224,chicago,Platinum,2
+577,FRANK,,female,35937,"Mar 15, 2018",3935,newyork,Gold,Mobile
+629,david,,f,99444,"Nov 19, 2019",462,Chicago,P,2
+486,Alice,57,male,90248,15/10/2022,244,chicago,S,In-Store
+980,Bob,38,female,87894,02/12/2019,191,New York,Platinum,Online
+95,alice,21,male,,"Jan 12, 2022",,Chicago,gold,In-Store
+370,Eve,16,female,48351,"Sep 28, 2020",49,Chicago,Silver,1
+93,Charlie,,F,35045,14/02/2023,246,Chicago,,3
+12,,46,F,23866,"Jun 23, 2018",$120,losangeles,Silver,2
+989,Eve,23,Male,38161,09/01/2023,3065,Chicago,gold,3
+904,Bob,45,male,30937,21/09/2018,474,newyork,Gold,Mobile
+618,Eve,69,male,55073,"Dec 29, 2018",$120,newyork,Gold,3
+640,FRANK,,Male,83120,17/03/2021,420,LA,Platinum,2
+319,david,-2,M,32054,2021-13-40,441,NYC,SILVER,Mobile
+360,david,23,M,92285,"Jan 28, 2018",125,chicago,Silver,1
+848,Charlie,35,male,70K,18/06/2021,,Chicago,Silver,In-Store
+439,alice,52,Male,-10000,06/07/2021,102,chicago,G,1
+221,Charlie,54,F,1000000,09/11/2019,230,LA,G,Online
+15,alice,,f,,26/04/2018,60,LA,Platinum,Online
+913,FRANK,88,M,45304,08/03/2022,3800,chicago,G,Mobile
+750,,33,Male,42670,2021-13-40,190,chicago,G,In-Store
+557,alice,,F,56842,10/06/2022,,NYC,P,2
+534,david,43,male,33486,08/01/2022,277,newyork,P,Mobile
+593,david,69,F,"30,000",04/07/2021,9009,New York,P,In-Store
+460,Bob,,male,41712,09/02/2019,361,Los Angeles,P,Online
+391,alice,53,Male,83941,17/01/2019,299,losangeles,Silver,Online
+858,FRANK,,f,78478,16/10/2021,232,New York,Silver,Online
+281,Bob,40,,98162,05/11/2020,405,New York,gold,3
+300,Bob,21,M,61779,19/06/2023,267,Chicago,Platinum,In-Store
+762,Alice,101,f,50k,04/12/2022,118,NYC,,1
+320,david,32,female,70K,10/12/2021,,LA,Gold,Mobile
+151,Charlie,20,M,46177,"Oct 04, 2022",180,chicago,Platinum,In-Store
+385,Charlie,68,Male,70K,12/04/2019,,LA,Platinum,2
+904,FRANK,,Male,28423,"Sep 09, 2022",,newyork,SILVER,2
+718,alice,48,male,500000,"Nov 03, 2020",383,newyork,P,2
+836,Bob,41,F,87024,"May 29, 2019",6127,Los Angeles,Gold,3
+928,david,28,M,96922,22/12/2020,8598,losangeles,P,In-Store
+559,alice,148,,58466,"Jun 06, 2023",$120,LA,Gold,In-Store
+346,Bob,66,female,"30,000",27/11/2018,205,Los Angeles,Silver,3
+791,alice,,F,,"Oct 08, 2020",,LA,,3
+228,Alice,27,Male,72206,04/05/2018,,New York,S,Online
+121,alice,26,f,35027,2021-13-40,372,LA,Gold,In-Store
+365,Charlie,,female,62294,05/03/2022,394,Chicago,Silver,In-Store
+849,,78,,44368,"Apr 29, 2022",479,Chicago,Platinum,Mobile
+975,alice,64,,52154,25/05/2021,255,newyork,Gold,1
+961,Alice,86,female,48204,"Jan 29, 2022",,NYC,S,Mobile
+735,alice,24,male,70K,01/03/2022,4538,newyork,S,2
+815,Eve,,M,39010,07/09/2019,290,NYC,G,3
+569,Alice,133,Male,36030,06/03/2022,321,losangeles,,3
+32,,52,female,61758,16/12/2018,270,Chicago,SILVER,2
+874,Eve,,M,63105,19/04/2020,8857,LA,G,1
+282,Alice,,f,80997,27/10/2019,421,losangeles,SILVER,1
+802,david,,f,70K,16/01/2023,,newyork,gold,2
+613,Bob,53,F,93615,18/10/2018,179,losangeles,Gold,In-Store
+516,Alice,29,f,70540,20/02/2018,453,LA,P,In-Store
+51,,,,98879,21/02/2020,346,newyork,SILVER,1
+79,FRANK,41,f,89109,29/01/2018,273,New York,Gold,2
+896,Bob,119,male,33489,17/09/2021,96,Chicago,G,3
+211,Alice,64,M,,22/04/2023,$120,LA,P,Mobile
+703,Bob,,male,99679,03/02/2018,37,LA,SILVER,Online
+872,alice,,f,50k,"Jul 09, 2019",292,NYC,Gold,1
+597,Alice,127,,"30,000",15/10/2020,324,NYC,Platinum,3
+522,Eve,,f,77043,"Aug 27, 2022",284,NYC,P,2
+790,,49,M,61958,23/09/2020,330,chicago,S,In-Store
+54,Charlie,62,,45837,25/04/2023,79,Los Angeles,,3
+773,Charlie,44,f,84740,25/09/2021,3547,NYC,G,1
+177,,,F,500000,06/08/2018,139,newyork,Platinum,1
+808,FRANK,22,Male,75212,16/12/2021,152,chicago,P,Mobile
+912,,29,M,36265,17/10/2018,259,Los Angeles,Platinum,2
+244,alice,24,Male,500000,09/10/2020,345,New York,G,Online
+367,,,female,70K,"Jan 27, 2018",384,Chicago,S,Mobile
+781,,,female,70K,"Nov 25, 2019",483,Los Angeles,Gold,In-Store
+855,Bob,,F,95551,28/05/2020,,LA,Platinum,2
+967,Charlie,141,F,57360,"Dec 20, 2020",43,Los Angeles,G,In-Store
+113,FRANK,21,female,95465,04/02/2020,498,losangeles,Gold,Online
+986,Bob,56,f,80525,11/06/2023,305,LA,Gold,Online
+662,Charlie,31,f,37178,"Jul 04, 2020",4215,newyork,Silver,Online
+63,,5,male,24850,"Mar 05, 2019",354,NYC,Platinum,Mobile
+846,Charlie,96,female,,"Feb 07, 2023",386,LA,Silver,3
+283,david,,female,,21/01/2023,1213,Chicago,,Online
+830,Alice,35,f,64222,"Feb 10, 2021",28,New York,S,1
+878,Alice,8,Male,50k,10/11/2019,4405,Chicago,Platinum,Mobile
+779,Eve,,male,81589,"Jun 01, 2023",151,Chicago,SILVER,In-Store
+239,alice,,Male,74405,18/03/2021,122,LA,Platinum,3
+424,,126,female,56002,02/06/2021,76,New York,gold,1
+533,,,,65327,26/05/2019,€100,losangeles,SILVER,1
+755,david,,Male,30455,29/12/2022,445,NYC,P,Mobile
+174,david,,M,,09/12/2022,366,NYC,SILVER,In-Store
+129,alice,132,male,84725,"Oct 31, 2018",134,New York,S,1
+650,FRANK,,f,50k,02/10/2020,377,newyork,P,1
+337,Charlie,,F,59117,"Dec 30, 2022",31,NYC,Silver,In-Store
+998,Eve,47,,1000000,08/03/2020,267,newyork,gold,Mobile
+819,david,,male,50k,20/07/2019,223,losangeles,,Online
+789,Bob,119,female,33466,12/05/2022,463,LA,Silver,In-Store
+566,Alice,,Male,49362,03/04/2019,218,Los Angeles,P,1
+690,,103,Male,21362,17/08/2022,212,LA,,In-Store
+126,Alice,130,male,33780,"May 24, 2022",11,NYC,SILVER,Mobile
+591,david,,M,77105,"Sep 19, 2020",1941,newyork,gold,Mobile
+838,david,,F,42307,03/01/2021,376,Los Angeles,SILVER,Mobile
+185,Bob,,M,45055,15/08/2021,4781,New York,,In-Store
+63,Bob,,male,90458,08/05/2021,€100,NYC,Platinum,In-Store
+707,Alice,55,male,26880,05/05/2018,€100,Chicago,Gold,1
+568,alice,104,F,25646,"Oct 29, 2020",472,New York,S,Mobile
+377,Alice,-2,male,26291,10/02/2020,2572,LA,S,3
+738,david,,f,29835,13/10/2022,9802,Chicago,Gold,1
+372,Alice,26,Male,63165,23/02/2019,77,New York,SILVER,Mobile
+242,,37,male,70K,01/03/2018,360,Los Angeles,Silver,1
+712,alice,,f,42326,10/08/2020,343,chicago,G,2
+743,david,,female,96474,22/02/2020,316,newyork,Platinum,1
+421,david,,F,500000,"Apr 03, 2022",222,NYC,Platinum,1
+682,Alice,54,f,61855,15/07/2019,2212,Chicago,SILVER,Mobile
+34,Charlie,107,M,96563,17/12/2021,€100,New York,Silver,2
+287,Eve,25,male,78560,16/04/2021,452,New York,G,1
+992,david,41,M,50k,04/02/2018,1669,Los Angeles,G,2
+823,FRANK,55,M,,31/10/2019,308,newyork,Silver,Mobile
+102,FRANK,136,f,,08/10/2019,,New York,SILVER,2
+275,david,,,95744,11/07/2021,71,Los Angeles,Platinum,1
+934,Eve,73,,-10000,21/03/2020,144,NYC,gold,In-Store
+901,Charlie,,Male,1000000,09/09/2022,441,chicago,G,In-Store
+157,david,62,female,83269,26/10/2019,,New York,gold,Mobile
+97,,56,,32032,25/04/2018,44,NYC,G,2
+465,Eve,137,F,58828,14/03/2023,7342,NYC,,Mobile
+89,Eve,4,f,66269,29/07/2018,93,LA,,3
+708,Alice,101,,,27/04/2019,300,New York,gold,Mobile
+551,Charlie,,M,46986,"Jun 15, 2023",420,New York,gold,Online
+754,,59,,29849,"Apr 25, 2020",490,Los Angeles,S,Online
+659,alice,58,Male,500000,05/10/2020,224,LA,SILVER,Mobile
+907,Alice,37,male,21720,10/12/2020,$120,chicago,,1
+876,FRANK,,,50k,21/03/2020,,NYC,S,3
+985,,,f,1000000,03/07/2018,197,Los Angeles,Silver,In-Store
+39,FRANK,62,M,83916,"Aug 25, 2018",295,NYC,SILVER,Mobile
+47,,90,M,64623,26/04/2018,440,chicago,Gold,Online
+399,,,male,97401,23/09/2022,440,NYC,Gold,1
+616,Charlie,50,male,,28/03/2018,245,chicago,gold,2
+934,Eve,64,female,,30/04/2023,206,Chicago,G,In-Store
+841,,23,Male,60871,"Oct 09, 2018",368,New York,P,2
+476,Charlie,,f,-10000,2021-13-40,486,NYC,Platinum,1
+707,alice,,male,86127,"Apr 17, 2022",53,Chicago,G,Mobile
+227,david,43,,37047,03/10/2021,9390,newyork,G,1
+192,david,118,f,67663,24/03/2018,195,losangeles,Silver,2
+575,Eve,67,f,79301,04/03/2019,40,New York,,Mobile
+74,Charlie,48,f,"30,000","Jan 15, 2018",307,LA,SILVER,Online
+483,alice,,male,72455,"Apr 06, 2021",408,NYC,P,In-Store
+805,Alice,,female,28996,25/08/2022,163,LA,SILVER,3
+677,,57,,75455,08/11/2018,1592,chicago,G,Online
+599,,8,F,60258,"Mar 05, 2022",€100,losangeles,G,1
+685,Charlie,100,female,"30,000",06/02/2020,110,losangeles,S,In-Store
+78,,61,M,39305,"Feb 17, 2019",6016,New York,Platinum,1
+570,david,95,male,500000,"Nov 01, 2019",4089,NYC,P,1
+442,Eve,41,F,51531,"Aug 25, 2021",300,NYC,,3
+916,david,,f,80404,01/07/2020,186,Los Angeles,P,1
+127,FRANK,-4,Male,54964,19/08/2018,164,chicago,gold,In-Store
+152,Bob,,Male,82421,07/08/2018,7175,losangeles,,2
+19,alice,,,"30,000","Mar 13, 2021",242,Los Angeles,,In-Store
+870,FRANK,27,F,1000000,12/10/2021,76,losangeles,,3
+405,Bob,70,Male,35509,"Aug 02, 2022",207,newyork,G,Mobile
+1000,david,61,male,,22/04/2018,232,NYC,G,3
+761,Alice,66,Male,66455,"Dec 17, 2022",55,New York,Silver,Online
+898,Eve,65,f,47795,2021-13-40,85,chicago,P,2
+924,,27,male,72026,26/08/2022,120,newyork,,1
+232,Alice,,male,,27/02/2019,350,chicago,,2
+145,Bob,18,male,86574,"Mar 06, 2020",480,New York,P,In-Store
+78,david,46,Male,26967,11/03/2020,491,chicago,Gold,Mobile
+987,david,,male,1000000,"Sep 10, 2020",6252,newyork,S,3
+9,alice,52,female,32820,28/09/2021,354,chicago,,Mobile
+772,david,123,female,70137,08/08/2018,61,New York,SILVER,In-Store
+401,FRANK,,,45419,22/06/2021,9432,Los Angeles,gold,Online
+761,Eve,,,44831,"Apr 24, 2023",,chicago,Platinum,In-Store
+264,Alice,-6,male,43153,14/09/2019,1643,NYC,,2
+169,david,55,male,70K,09/03/2021,,Chicago,Gold,Online
+969,david,34,female,,24/01/2020,£90,NYC,Platinum,Mobile
+514,Bob,,Male,70K,12/06/2023,2607,Chicago,gold,1
+729,alice,57,F,,03/02/2020,7677,New York,Silver,3
+375,david,47,f,34311,31/08/2021,337,NYC,SILVER,Mobile
+405,david,,F,50k,13/03/2018,380,chicago,S,Online
+867,,60,M,50k,23/06/2019,474,newyork,Platinum,In-Store
+90,david,,male,48780,23/12/2022,346,newyork,SILVER,In-Store
+928,FRANK,49,f,26964,27/07/2021,7230,Los Angeles,P,In-Store
+271,Eve,15,male,95396,24/03/2023,122,Chicago,,Mobile
+888,,,male,51295,19/08/2018,296,LA,SILVER,1
+804,alice,23,F,89747,"Jul 21, 2020",422,chicago,Platinum,1
+749,FRANK,,male,56105,10/12/2021,464,chicago,Gold,2
+885,Eve,63,female,73026,17/11/2021,378,NYC,S,3
+374,Eve,125,male,71496,25/03/2020,494,Los Angeles,,3
+990,FRANK,115,M,48821,15/10/2020,$120,chicago,Platinum,3
+35,alice,65,M,84903,24/04/2020,351,losangeles,P,3
+541,alice,80,female,42417,27/03/2021,196,Los Angeles,SILVER,3
+468,Bob,58,F,65564,"May 19, 2023",,New York,Platinum,Online
+952,alice,50,f,70K,12/01/2022,125,chicago,Silver,Mobile
+395,FRANK,55,male,70K,02/07/2019,143,Chicago,,Mobile
+100,david,,M,32352,27/05/2023,496,NYC,Silver,1
+877,FRANK,35,,85960,06/07/2020,424,New York,Gold,3
+985,FRANK,,,70K,01/04/2018,49,newyork,P,2
+721,,,F,51276,10/12/2021,371,LA,G,1
+583,Alice,,Male,61302,05/01/2022,444,New York,Silver,In-Store
+195,david,,M,50k,"Jul 01, 2018",9667,losangeles,Platinum,Mobile
+652,Charlie,32,F,44555,25/08/2020,€100,losangeles,gold,Online
+831,Alice,29,F,79666,"Jan 21, 2023",201,chicago,Gold,2
+159,Eve,144,male,21669,12/01/2021,199,New York,,Mobile
+622,,46,F,70K,"Aug 02, 2021",£90,New York,Gold,3
+236,Eve,,F,63785,03/04/2021,479,newyork,G,3
+294,Charlie,52,F,43267,"Dec 13, 2019",5400,LA,Platinum,Online
+54,david,37,female,30089,09/10/2021,€100,LA,gold,1
+621,FRANK,,female,21275,"Apr 15, 2020",€100,Los Angeles,Platinum,Online
+860,david,30,f,70K,"Jun 27, 2018",5395,newyork,Platinum,In-Store
+306,,,F,-10000,"Nov 13, 2019",6496,Los Angeles,G,In-Store
+9,david,64,,84003,12/07/2020,194,Chicago,Gold,3
+282,alice,,male,81940,05/12/2019,233,newyork,gold,2
+406,FRANK,71,,25921,11/01/2021,298,newyork,Platinum,2
+675,Eve,67,,94352,20/03/2021,€100,NYC,S,In-Store
+23,alice,65,F,70K,11/06/2022,207,Chicago,S,Online
+734,alice,67,Male,88848,22/03/2020,9237,New York,S,Mobile
+896,alice,26,,,09/12/2022,423,Chicago,P,1
+589,Charlie,,F,39212,19/01/2021,230,Chicago,,2
+625,FRANK,,F,33106,24/03/2021,473,losangeles,Platinum,3
+746,Charlie,,,63997,01/02/2021,74,chicago,SILVER,In-Store
+246,Charlie,,Male,1000000,"Nov 01, 2021",100,LA,S,In-Store
+766,alice,19,,91527,"Oct 29, 2019",156,Chicago,P,In-Store
+757,Charlie,62,M,83765,19/03/2020,21,chicago,,1
+851,Alice,144,female,67748,21/12/2019,,New York,Platinum,3
+923,Alice,63,female,500000,06/08/2018,303,Chicago,S,3
+43,Bob,115,male,59470,18/07/2020,483,chicago,S,In-Store
+310,Alice,26,female,87873,08/01/2023,6019,losangeles,S,3
+815,Alice,-2,f,"30,000",04/01/2023,,NYC,P,Online
+968,,-7,male,500000,19/02/2023,427,Chicago,S,2
+137,Charlie,,M,88066,20/09/2019,104,NYC,gold,3
+829,david,60,F,50k,13/09/2019,315,Los Angeles,G,3
+50,Bob,35,F,73781,17/07/2018,175,losangeles,SILVER,Mobile
+826,Charlie,,M,38564,"Mar 05, 2018",304,newyork,P,Mobile
+732,Alice,38,F,85251,16/01/2019,213,NYC,Platinum,Online
+70,david,45,M,52029,15/07/2020,442,losangeles,SILVER,3
+76,alice,,F,"30,000",2021-13-40,$120,New York,Gold,1
+759,FRANK,,female,67109,"May 08, 2021",446,NYC,Gold,1
+560,Alice,,female,31701,07/02/2020,16,Chicago,Gold,1
+694,alice,,F,69516,22/06/2021,€100,LA,Platinum,3
+751,alice,,Male,50k,30/04/2021,132,newyork,,1
+913,Alice,105,M,91423,24/06/2023,407,Chicago,P,Online
+10,Alice,70,male,-10000,21/12/2019,2944,NYC,S,1
+683,,127,f,54774,27/08/2020,102,New York,,In-Store
+241,Alice,,F,70K,26/04/2022,72,chicago,Platinum,1
+471,Alice,,male,71252,"Apr 17, 2021",36,New York,,3
+912,Eve,38,male,70K,03/11/2021,5338,Los Angeles,G,In-Store
+654,Eve,91,male,60543,18/02/2020,9920,Los Angeles,SILVER,3
+863,Alice,63,Male,25387,04/04/2022,4201,losangeles,Gold,In-Store
+238,,98,Male,"30,000",18/01/2021,415,New York,S,2
+895,Charlie,,,36116,23/01/2022,491,LA,gold,1
+598,Bob,26,female,79641,"Mar 15, 2022",428,newyork,Platinum,In-Store
+666,Bob,59,f,70K,19/08/2020,164,LA,Platinum,Online
+247,Charlie,64,f,34442,05/02/2021,463,Los Angeles,S,Online
+700,david,,M,85395,2021-13-40,119,NYC,SILVER,Online
+635,david,24,F,50k,20/09/2018,241,Los Angeles,S,In-Store
+129,Eve,72,F,-10000,29/06/2020,7760,newyork,gold,In-Store
+625,FRANK,35,F,88575,"Aug 06, 2020",346,LA,G,Online
+81,Eve,41,F,93156,05/03/2020,$120,LA,G,Online
+950,,54,f,50k,29/08/2018,474,NYC,SILVER,3
+55,Bob,,M,83809,"Jul 14, 2020",1296,Los Angeles,SILVER,3
+185,FRANK,64,F,28469,"Mar 23, 2018",283,New York,SILVER,2
+169,,,F,22043,23/05/2020,2998,New York,gold,Mobile
+25,alice,,M,500000,07/06/2023,£90,LA,,2
+926,david,,f,57095,2021-13-40,480,NYC,P,Mobile
+423,david,,female,50k,08/05/2022,82,Chicago,SILVER,In-Store
+251,Eve,,Male,84011,"Mar 31, 2018",50,NYC,Gold,1
+338,Bob,42,F,20667,28/11/2019,383,New York,G,Mobile
+442,Alice,,Male,66170,29/06/2020,,losangeles,Silver,2
+384,Bob,27,Male,50k,13/10/2018,$120,Los Angeles,Silver,In-Store
+85,,3,F,52955,23/04/2023,,New York,,In-Store
+301,,,female,65903,21/01/2020,172,newyork,Platinum,In-Store
+58,,104,male,85797,"Dec 11, 2020",117,NYC,,1
+466,alice,58,male,"30,000",06/08/2018,427,losangeles,Platinum,1
+48,Alice,26,,31272,26/07/2019,5577,NYC,Gold,3
+908,Alice,57,F,38696,14/05/2020,231,Chicago,,2
+307,Charlie,117,M,76629,"Jun 23, 2019",,chicago,Silver,1
+726,Bob,,,50k,04/11/2020,€100,losangeles,S,Online
+171,alice,49,,48686,29/11/2022,442,Chicago,P,2
+455,,111,f,82020,28/11/2018,9160,LA,Gold,In-Store
+415,FRANK,44,M,52601,23/09/2021,67,Chicago,gold,3
+285,Bob,56,female,"30,000","Jan 23, 2021",$120,Los Angeles,P,2
+649,Alice,130,f,75386,05/09/2020,3680,Los Angeles,Gold,2
+101,david,,F,32863,06/09/2021,1414,losangeles,Silver,1
+445,david,70,f,59586,26/08/2018,,Los Angeles,Platinum,1
+93,alice,29,f,70K,"Oct 29, 2018",417,LA,Silver,3
+233,Eve,59,M,93912,2021-13-40,458,NYC,Gold,3
+897,Alice,,f,62268,03/05/2018,123,NYC,SILVER,3
+701,Bob,144,Male,50k,"Sep 25, 2021",€100,New York,SILVER,Online
+958,Eve,39,f,50k,"Jan 19, 2018",$120,losangeles,G,3
+241,Alice,24,F,37785,"Oct 08, 2018",8044,New York,Silver,In-Store
+71,Charlie,,F,92651,29/10/2022,359,NYC,,1
+633,FRANK,,f,59460,22/01/2019,218,LA,Platinum,Online
+37,Alice,68,male,31219,15/03/2019,109,chicago,Gold,Mobile
+214,david,138,male,94273,06/02/2021,$120,Chicago,G,3
+146,Charlie,13,F,70K,18/09/2018,152,LA,Gold,3
+946,,84,Male,,20/05/2018,340,newyork,S,Mobile
+642,Bob,7,,69278,29/05/2018,483,chicago,Gold,2
+325,Eve,6,M,32588,23/03/2022,6850,Chicago,,Mobile
+883,Charlie,48,f,89018,11/01/2020,426,NYC,,1
+457,david,60,f,-10000,12/04/2020,£90,losangeles,Silver,2
+216,,,f,86036,"Mar 29, 2018",22,chicago,Gold,In-Store
+337,FRANK,,Male,"30,000",26/02/2018,176,Los Angeles,SILVER,Online
+503,,,f,81391,"Mar 22, 2023",9505,losangeles,gold,2
+140,Charlie,64,f,76055,26/05/2021,1747,losangeles,Silver,Mobile
+345,Bob,,f,1000000,18/09/2018,22,NYC,SILVER,1
+710,FRANK,,male,80461,07/06/2022,257,newyork,Gold,Mobile
+615,Alice,,M,93257,28/03/2022,3919,NYC,Platinum,2
+347,Bob,149,female,75170,"Dec 03, 2020",43,chicago,gold,3
+552,,,F,38426,03/06/2018,105,chicago,P,Online
+289,david,,f,70K,04/05/2020,247,losangeles,P,Online
+77,Bob,117,male,96064,13/12/2021,4192,NYC,P,In-Store
+291,FRANK,,M,,"Mar 23, 2018",227,newyork,G,In-Store
+226,,32,male,36682,30/07/2019,319,Los Angeles,SILVER,Mobile
+420,FRANK,18,female,"30,000","Feb 22, 2023",126,losangeles,S,2
+148,Alice,47,female,70K,"Jan 01, 2021",3022,chicago,G,Mobile
+86,Eve,,f,71466,18/10/2022,400,NYC,,Online
+16,alice,44,,72814,01/03/2020,280,losangeles,SILVER,2
+848,alice,,male,50k,06/07/2018,2422,losangeles,gold,In-Store
+847,david,69,Male,-10000,27/12/2020,$120,LA,Silver,Mobile
+786,FRANK,,Male,500000,"Jul 04, 2019",111,newyork,S,Online
+451,,36,,27168,02/05/2021,111,Chicago,Platinum,3
+229,,,Male,34031,"Jan 30, 2023",328,New York,SILVER,Online
+340,Charlie,53,f,97901,05/03/2021,189,chicago,,Online
+605,,75,f,58086,20/09/2019,275,newyork,Gold,Online
+199,Bob,,F,70K,26/11/2020,100,Los Angeles,SILVER,Mobile
+130,Eve,19,F,27977,09/05/2021,317,Chicago,S,Mobile
+917,david,,f,96626,21/01/2019,4055,New York,Gold,1
+863,Bob,48,female,"30,000","Nov 10, 2021",8940,newyork,P,Online
+182,Bob,24,Male,46878,"Nov 05, 2021",186,LA,Silver,1
+20,Eve,150,female,,"Feb 06, 2021",378,LA,S,Mobile
+680,Charlie,75,male,93668,05/08/2020,325,Chicago,Platinum,2
+543,,,F,500000,"Jan 20, 2022",433,losangeles,P,3
+391,Charlie,123,male,40286,"Feb 26, 2019",4493,LA,SILVER,3
+854,,,,60749,19/08/2021,85,Chicago,,3
+806,FRANK,52,F,83564,13/03/2020,87,chicago,Gold,3
+763,FRANK,74,M,"30,000",25/03/2023,8253,chicago,S,Online
+303,Bob,28,f,35035,"Oct 27, 2018",368,newyork,P,2
+45,Bob,76,M,20004,02/06/2019,4114,New York,Silver,Online
+421,Alice,58,female,99140,2021-13-40,,losangeles,SILVER,In-Store
+795,Eve,145,female,88134,"Jan 22, 2019",3855,NYC,Gold,2
+21,alice,29,f,52401,"Jul 20, 2020",157,chicago,S,3
+398,FRANK,,F,33579,11/05/2020,446,NYC,,2
+335,Eve,-2,female,500000,25/05/2020,£90,New York,Gold,2
+98,Bob,12,M,,02/09/2020,410,chicago,G,3
+551,Charlie,85,f,1000000,02/09/2018,125,Los Angeles,Platinum,3
+686,Bob,,F,35966,11/01/2020,126,New York,Gold,3
+330,Charlie,37,,73026,"May 24, 2018",228,chicago,G,Online
+445,,41,f,500000,"Jan 01, 2021",269,NYC,SILVER,Mobile
+387,alice,,,91659,16/07/2018,27,losangeles,SILVER,Mobile
+929,,,Male,77557,2021-13-40,€100,Chicago,G,3
+312,Bob,38,Male,"30,000","Nov 23, 2019",474,LA,Gold,Online
+869,Alice,124,f,76669,08/05/2019,292,chicago,Silver,Online
+644,Bob,67,female,22838,"May 21, 2021",$120,Los Angeles,gold,Mobile
+354,FRANK,,,38571,26/12/2019,,chicago,S,Online
+496,Bob,61,,50k,"Feb 07, 2021",209,New York,,Mobile
+552,FRANK,-1,M,87045,18/12/2018,9156,Los Angeles,G,In-Store
+994,,42,,,16/06/2021,401,NYC,S,Online
+5,Alice,18,male,82411,"Jul 06, 2018",,chicago,,Mobile
+365,Eve,61,M,1000000,13/09/2018,434,losangeles,SILVER,1
+676,,39,f,33109,12/04/2020,205,LA,Gold,1
+594,,,male,70K,02/06/2021,60,Los Angeles,P,2
+960,Bob,65,f,56068,23/02/2023,261,New York,Silver,Mobile
+57,david,,F,70570,07/01/2018,89,newyork,SILVER,Online
+767,Charlie,31,f,80812,10/06/2020,61,chicago,G,3
+290,,63,M,75683,21/04/2019,340,LA,Gold,In-Store
+3,Charlie,71,Male,23666,16/04/2020,,NYC,Silver,Mobile
+887,Charlie,20,male,79910,22/02/2022,467,LA,gold,In-Store
+520,Eve,30,,93952,18/03/2022,,losangeles,P,2
+18,Eve,,F,21444,"Apr 16, 2022",3996,chicago,P,3
+349,Eve,53,Male,70K,10/10/2021,449,newyork,P,3
+425,alice,128,Male,78258,"Nov 28, 2022",£90,Chicago,SILVER,Online
+809,Charlie,71,Male,66494,19/10/2020,8122,New York,,Mobile
+910,Bob,,,81329,27/05/2021,283,newyork,Platinum,2
+283,Charlie,33,f,1000000,11/12/2021,409,newyork,P,3
+72,,146,F,40750,02/12/2021,254,losangeles,S,In-Store
+596,Eve,52,female,85619,07/04/2020,176,LA,S,1
+729,,-3,F,,25/12/2019,€100,Chicago,gold,Mobile
+521,Eve,61,f,65722,"Jan 04, 2022",84,Chicago,SILVER,1
+535,alice,42,M,,17/02/2020,120,newyork,gold,Mobile
+196,Bob,45,f,87245,06/11/2021,82,chicago,,Mobile
+96,FRANK,,F,42871,13/05/2018,480,newyork,Platinum,2
+563,Eve,,male,50k,14/02/2018,,LA,SILVER,Online
+325,david,69,male,93812,07/01/2020,334,New York,,In-Store
+468,alice,,M,80225,12/06/2020,396,chicago,G,Online
+250,david,66,male,56482,03/07/2018,5784,Chicago,Silver,2
+484,alice,,f,70K,"Apr 14, 2019",88,Chicago,Gold,3
+127,Bob,,male,28940,17/06/2019,296,LA,,Online
+42,Charlie,14,male,70K,25/03/2019,3527,newyork,,Online
+280,Eve,109,F,81833,"Feb 21, 2020",4016,New York,G,1
+723,Alice,32,male,"30,000",14/04/2019,385,chicago,S,2
+409,,56,female,95502,22/11/2018,217,Chicago,,Mobile
+299,FRANK,,Male,,06/02/2021,203,Los Angeles,Platinum,1
+734,,74,F,"30,000","Dec 11, 2020",430,newyork,,Mobile
+153,FRANK,47,female,36963,24/08/2019,6530,chicago,SILVER,1
+158,alice,22,,97182,25/07/2019,200,NYC,gold,Online
+52,FRANK,112,male,70K,01/10/2019,1807,Los Angeles,Platinum,1
+76,,62,male,"30,000",20/04/2019,134,losangeles,G,1
+638,Charlie,56,male,28856,18/03/2021,8844,Los Angeles,Silver,2
+556,Eve,16,Male,23869,21/08/2020,44,Chicago,Silver,Mobile
+602,FRANK,17,f,50369,29/04/2019,2879,chicago,G,Online
+381,david,8,male,33922,05/02/2019,,Chicago,Platinum,Online
+7,alice,108,,-10000,"Jul 27, 2018",149,newyork,Gold,2
+96,FRANK,55,,1000000,02/01/2019,360,losangeles,S,Online
+418,Charlie,,male,51013,"Feb 07, 2021",€100,newyork,,In-Store
+486,,113,M,42806,09/11/2018,433,Los Angeles,Platinum,1
+714,FRANK,22,,75057,"Jan 18, 2018",13,Chicago,SILVER,3
+565,Eve,141,F,28116,"Apr 19, 2022",£90,chicago,G,Online
+850,alice,,F,70K,12/02/2018,127,New York,P,1
+163,david,,f,24904,09/12/2018,,Chicago,Platinum,2
+384,FRANK,62,female,77872,30/09/2022,405,New York,P,2
+592,,,Male,99499,"Jun 01, 2021",344,LA,SILVER,3
+330,Eve,136,,50k,26/07/2019,,Chicago,,2
+624,,,f,62094,25/12/2018,86,Los Angeles,Silver,3
+646,FRANK,,male,78918,28/11/2018,464,newyork,gold,3
+30,Bob,24,Male,37460,2021-13-40,2175,New York,P,In-Store
+612,david,37,M,"30,000",01/08/2020,406,losangeles,Silver,1
+497,Charlie,,Male,,19/03/2020,99,losangeles,Gold,3
+716,Alice,142,F,45653,"Aug 13, 2020",348,Los Angeles,Platinum,Online
+262,alice,,Male,84369,28/03/2021,270,LA,Platinum,1
+295,david,60,M,-10000,08/12/2020,349,New York,G,Online
+135,alice,,Male,49556,24/10/2022,127,losangeles,Silver,Online
+711,Eve,66,M,41245,16/03/2018,8758,New York,gold,Mobile
+315,Bob,28,Male,89275,"Jan 23, 2020",6986,newyork,S,2
+189,,64,female,31274,26/01/2023,42,chicago,gold,1
+367,alice,137,male,50k,"Sep 06, 2019",384,Los Angeles,,1
+662,Charlie,,F,"30,000",24/09/2020,414,Chicago,gold,2
+231,Eve,,F,46678,18/03/2019,$120,NYC,P,1
+16,david,67,f,38423,17/03/2022,173,losangeles,,Online
+318,Eve,63,,67128,24/04/2021,301,chicago,,Online
+951,Charlie,,Male,94487,11/09/2019,419,Chicago,G,2
+191,,50,Male,,03/02/2018,489,LA,SILVER,2
+371,,5,Male,64657,02/06/2019,2102,New York,G,1
+510,Bob,53,M,89226,30/12/2021,54,losangeles,Platinum,1
+193,alice,133,,500000,24/02/2019,378,Los Angeles,S,1
+235,alice,25,Male,94759,20/05/2023,46,losangeles,S,Mobile
+351,,,f,-10000,26/10/2018,299,Chicago,SILVER,2
+787,,,female,66725,"Apr 19, 2018",6606,chicago,Platinum,3
+556,Alice,87,,"30,000",02/03/2020,229,New York,,3
+801,FRANK,,Male,28802,"Aug 26, 2019",18,chicago,Gold,2
+674,Bob,34,Male,1000000,03/02/2021,2496,chicago,Platinum,In-Store
+773,Bob,,male,70K,14/11/2022,7159,chicago,G,3
+296,david,82,female,94599,10/11/2019,4465,losangeles,Silver,In-Store
+527,FRANK,,,36671,2021-13-40,6259,losangeles,G,In-Store
+886,Charlie,26,Male,,27/07/2018,£90,LA,P,1
+414,Alice,22,F,33226,"Feb 24, 2021",€100,newyork,G,Online
+792,,,female,85367,09/11/2020,40,Chicago,Silver,1
+762,FRANK,45,female,26747,31/01/2020,$120,NYC,P,Online
+332,,96,,"30,000",16/11/2019,19,New York,gold,3
+77,Bob,144,M,22954,"Oct 31, 2019",96,Los Angeles,P,Mobile
+603,Alice,36,F,57997,29/06/2022,91,LA,,Online
+518,Bob,,F,71173,03/04/2022,1244,newyork,Gold,Mobile
+774,Eve,105,,28906,18/11/2020,328,newyork,G,2
+38,david,40,M,57757,27/01/2021,9128,chicago,G,In-Store
+996,david,45,female,90047,11/11/2018,79,Los Angeles,Silver,Mobile
+910,alice,,F,50k,02/01/2022,2471,Chicago,P,In-Store
+945,FRANK,118,M,,"Jul 24, 2021",167,newyork,Gold,Mobile
+411,,,M,"30,000",10/04/2022,491,chicago,Gold,Mobile
+429,alice,41,f,72326,"Feb 26, 2020",302,Los Angeles,Platinum,3
+990,Charlie,,M,50k,27/03/2018,394,newyork,S,2
+785,FRANK,,M,,07/05/2023,473,New York,SILVER,Online
+711,Alice,48,,96385,11/03/2021,7611,newyork,,2
+422,alice,124,male,1000000,19/08/2022,£90,newyork,P,Mobile
+637,Bob,47,M,50k,"Mar 09, 2021",8436,newyork,Gold,1
+600,Eve,51,f,64308,08/03/2019,28,chicago,,Mobile
+46,,,F,54194,01/12/2018,9572,NYC,SILVER,1
+108,Bob,,F,63848,15/09/2020,$120,NYC,P,3
+827,Bob,,female,38256,18/02/2023,94,NYC,P,In-Store
+329,Charlie,37,Male,91707,07/10/2020,261,chicago,S,2
+342,FRANK,39,M,28169,"Jul 30, 2020",$120,losangeles,SILVER,Mobile
+577,Eve,,,84691,02/02/2020,418,chicago,gold,In-Store
+378,FRANK,,M,93905,"Jun 13, 2019",4037,Chicago,P,Mobile
+949,alice,97,,"30,000",31/10/2019,234,NYC,Platinum,In-Store
+982,david,65,Male,65330,"Sep 07, 2022",7379,chicago,P,In-Store
+504,alice,,Male,74557,13/05/2022,1463,NYC,S,2
+688,FRANK,,F,"30,000",15/02/2018,€100,Chicago,S,3
+651,alice,134,,50k,"Nov 04, 2019",9690,newyork,Silver,2
+845,Bob,,f,,23/01/2022,,New York,,2
+600,alice,28,F,500000,"Apr 26, 2021",8784,LA,gold,In-Store
+186,alice,,f,25471,12/06/2019,9924,newyork,,Mobile
+285,FRANK,-4,,24666,10/02/2021,190,losangeles,,In-Store
+792,Bob,49,male,-10000,25/03/2019,440,NYC,Gold,1
+453,Eve,9,Male,65908,10/11/2018,4407,LA,P,1
+668,Alice,,female,82599,"Nov 01, 2020",6058,LA,Silver,3
+532,Bob,60,Male,49852,29/03/2020,69,Chicago,P,In-Store
+348,Alice,,,27255,05/09/2019,2502,Los Angeles,,Online
+180,FRANK,,female,45712,30/06/2021,7262,New York,gold,1
+775,Bob,104,M,,19/09/2021,168,losangeles,S,3
+821,Charlie,34,f,70K,12/03/2023,25,newyork,gold,1
+719,david,50,,"30,000",28/07/2022,,NYC,S,Mobile
+793,Charlie,29,,92416,27/08/2020,6486,Chicago,P,2
+611,Charlie,39,male,500000,29/01/2020,129,New York,Gold,Online
+680,FRANK,29,M,69444,23/09/2020,84,Los Angeles,,Online
+143,,95,F,76324,22/03/2020,91,newyork,SILVER,3
+453,alice,,female,92029,06/10/2022,310,newyork,S,Mobile
+22,david,58,f,35149,04/06/2021,190,New York,,2
+802,,54,f,500000,"May 09, 2021",406,newyork,Platinum,Mobile
+590,Charlie,59,,70K,14/10/2022,258,Chicago,G,1
+882,Charlie,32,F,45381,18/06/2018,149,New York,Platinum,1
+857,,111,female,77216,27/05/2020,298,NYC,,2
+691,,48,F,51217,29/03/2023,8472,LA,Silver,1
+487,Alice,89,f,32057,05/01/2018,255,newyork,,2
+80,david,,male,50k,"Oct 01, 2018",374,Chicago,SILVER,In-Store
+27,alice,-7,Male,74141,"Jan 22, 2020",10,LA,,Online
+257,,104,f,,29/06/2018,225,chicago,,In-Store
+619,,,,50k,"Sep 27, 2019",,NYC,P,Online
+501,Alice,61,M,52757,08/04/2021,€100,New York,Platinum,In-Store
+753,david,80,Male,30041,12/06/2021,168,Chicago,Silver,2
+443,david,59,f,36608,29/01/2019,,New York,,Mobile
+911,Eve,35,M,500000,15/08/2022,8131,NYC,Gold,In-Store
+265,Bob,139,,25730,"Apr 30, 2021",€100,chicago,G,In-Store
+613,Bob,,Male,65831,13/12/2020,303,chicago,Gold,1
+209,Charlie,61,,"30,000",06/08/2019,£90,New York,P,In-Store
+674,FRANK,,f,58327,"May 26, 2021",€100,Los Angeles,Platinum,1
+851,FRANK,36,M,99445,09/05/2022,224,NYC,gold,1
+885,david,,f,82744,"Apr 04, 2019",207,Chicago,G,1
+513,alice,18,F,50k,"Oct 12, 2022",228,Los Angeles,Silver,2
+279,Bob,,male,50k,24/11/2021,141,chicago,Platinum,2
+966,Eve,104,female,52794,"Jan 05, 2020",26,New York,gold,3
+413,alice,62,F,,16/12/2021,218,losangeles,G,In-Store
+212,FRANK,30,F,84871,21/03/2023,190,New York,gold,Mobile
+312,,57,f,48873,"Oct 01, 2022",367,New York,Gold,Mobile
+706,,,female,-10000,08/03/2019,250,LA,S,Online
+480,Bob,,,68094,11/12/2021,29,Los Angeles,gold,3
+270,FRANK,,Male,,01/05/2018,7326,Los Angeles,,Mobile
+251,FRANK,,M,52008,08/07/2020,299,newyork,,3
+296,alice,66,F,,"May 31, 2018",325,Chicago,gold,3
+944,Charlie,37,F,61793,"Nov 09, 2021",247,chicago,G,Online
+73,Eve,,f,,11/01/2022,$120,newyork,,In-Store
+464,Bob,106,,,"Sep 09, 2018",461,LA,,Mobile
+767,Charlie,,f,27077,06/03/2019,6867,LA,Platinum,In-Store
+610,FRANK,72,Male,73848,16/01/2020,301,Chicago,gold,2
+315,Bob,8,f,70K,08/12/2019,124,Los Angeles,,Mobile
+812,david,5,F,30282,"Sep 19, 2022",115,NYC,G,Mobile
+170,Eve,42,M,37974,23/07/2022,365,chicago,Gold,1
+982,Bob,34,female,,03/06/2023,313,newyork,P,Online
+489,Charlie,7,male,59968,"Nov 02, 2022",£90,LA,Gold,In-Store
+705,FRANK,146,f,,"Jul 29, 2022",101,chicago,Platinum,Online
+847,Charlie,29,male,36088,19/12/2021,189,Chicago,Platinum,2
+273,,128,,38607,2021-13-40,92,Los Angeles,Gold,1
+931,,,female,50815,24/05/2022,,New York,gold,In-Store
+153,Charlie,,female,-10000,01/05/2020,246,Los Angeles,Gold,Online
+771,,34,,500000,17/11/2019,355,New York,P,2
+231,,,,85392,15/10/2018,228,Chicago,G,2
+525,Charlie,54,f,55428,"Oct 11, 2020",130,losangeles,Silver,1
+609,alice,19,female,97101,16/01/2022,446,LA,P,In-Store
+861,Charlie,59,Male,59375,28/04/2022,324,New York,G,3
+203,Charlie,89,male,27827,"Dec 27, 2021",479,newyork,,Online
+679,alice,74,F,99920,2021-13-40,,losangeles,G,3
+824,Eve,,,84927,15/09/2020,6495,losangeles,Platinum,1
+871,Charlie,115,Male,70146,"Nov 12, 2019",7446,NYC,,In-Store
+604,Charlie,,M,78198,27/12/2022,482,Los Angeles,Silver,2
+641,FRANK,,,49418,30/04/2023,221,Los Angeles,Silver,3
+571,alice,-10,f,69719,"Jan 12, 2022",8120,newyork,SILVER,In-Store
+238,Alice,62,female,76503,28/03/2022,162,chicago,,1
+697,FRANK,127,,,13/11/2019,395,newyork,Platinum,1
+887,Alice,67,F,59996,08/07/2021,457,chicago,SILVER,1
+240,alice,13,male,90981,04/12/2022,391,newyork,P,1
+704,Charlie,52,F,23406,16/02/2023,167,NYC,Gold,3
+73,david,,Male,70K,06/09/2022,412,newyork,Silver,Online
+106,,,F,97458,07/09/2019,415,NYC,S,Online
+914,alice,,f,23584,"Sep 30, 2021",323,Chicago,Gold,2
+591,,,female,76895,09/01/2018,212,Los Angeles,Platinum,Mobile
+475,alice,,male,27486,04/05/2023,5007,losangeles,P,In-Store
+67,,81,male,92521,05/01/2018,4972,New York,S,Mobile
+597,alice,,male,57672,"Jun 05, 2018",151,LA,P,In-Store
+963,alice,30,male,,2021-13-40,8387,Chicago,,3
+49,Charlie,,,1000000,"Nov 14, 2022",125,New York,Platinum,3
+388,Bob,51,f,"30,000",20/09/2021,5417,newyork,,1
+6,Alice,,f,"30,000",03/04/2021,145,Chicago,Silver,3
+321,david,68,Male,41305,"Feb 05, 2021",279,Chicago,Silver,2
+154,Eve,52,Male,81254,18/10/2022,3807,chicago,S,1
+356,Alice,20,F,37284,"Mar 07, 2020",124,Chicago,S,In-Store
+492,Eve,0,f,56791,2021-13-40,313,losangeles,P,Online
+322,david,,Male,70K,29/05/2020,266,newyork,Gold,2
+167,Eve,123,male,52759,18/05/2019,75,chicago,P,Online
+531,Charlie,61,M,,"Sep 23, 2018",8815,newyork,P,Online
+866,alice,65,F,64241,"Aug 22, 2019",304,LA,Silver,1
+426,alice,,,70K,30/01/2023,9735,losangeles,gold,Online
+204,Bob,,M,55949,"Dec 02, 2018",9558,Los Angeles,G,In-Store
+124,Bob,,male,55225,"Mar 24, 2023",5417,chicago,Silver,Online
+498,Eve,,f,70K,15/01/2021,137,LA,gold,Online
+879,FRANK,59,M,"30,000",15/11/2018,63,losangeles,S,In-Store
+609,Alice,2,f,36293,07/01/2018,467,New York,S,3
+784,alice,14,F,94506,"Apr 27, 2022",8299,chicago,S,Mobile
+923,david,,f,70K,21/08/2018,41,New York,Gold,In-Store
+263,,22,Male,43433,21/10/2020,68,Chicago,S,In-Store
+463,Bob,,f,1000000,"Sep 12, 2020",$120,LA,P,Mobile
+853,david,32,male,77659,31/12/2019,€100,New York,Gold,3
+243,Eve,,female,81137,05/03/2020,470,Chicago,S,Mobile
+458,Alice,92,f,67018,28/05/2019,,chicago,G,1
+175,alice,,f,-10000,24/06/2021,108,losangeles,gold,In-Store
+701,Eve,26,F,,29/11/2018,332,Chicago,,3
+491,FRANK,,Male,73557,05/12/2020,199,New York,P,Online
+311,Bob,29,,95965,"Mar 09, 2023",251,newyork,Silver,Mobile
+110,alice,25,f,56234,14/10/2022,3161,New York,,3
+152,Bob,66,M,"30,000",04/06/2020,29,New York,SILVER,3
+8,david,,,28394,08/05/2022,15,NYC,SILVER,1
+821,david,28,male,500000,25/01/2019,164,newyork,SILVER,3
+134,FRANK,55,female,56194,12/03/2022,300,New York,Gold,3
+234,,146,,84871,06/03/2022,444,newyork,SILVER,1
+979,Charlie,67,female,49808,28/03/2023,205,newyork,S,1
+518,Charlie,49,Male,50k,26/07/2020,85,NYC,,Online
+106,david,18,f,26498,26/01/2020,4660,losangeles,,2
+378,david,141,M,35000,16/03/2018,1894,LA,Silver,3
+527,Alice,,F,50k,2021-13-40,82,Los Angeles,gold,1
+903,FRANK,26,f,86416,"Sep 23, 2021",64,New York,gold,Online
+981,Eve,,f,-10000,01/05/2020,408,LA,SILVER,3
+962,Charlie,46,f,25499,01/11/2022,114,LA,gold,2
+583,FRANK,,f,,23/09/2022,€100,New York,SILVER,2
+168,Eve,20,F,27970,23/02/2021,452,Los Angeles,P,3
+473,Eve,,f,53743,27/08/2020,280,newyork,Gold,1
+122,Eve,150,f,66312,"Feb 03, 2021",7416,newyork,gold,Online
+202,Bob,40,,,19/07/2022,179,losangeles,G,1
+599,Charlie,53,female,98719,"Jul 30, 2021",6527,Los Angeles,Silver,Mobile
+112,,25,,65839,04/01/2021,8722,Los Angeles,S,3
+920,Alice,,F,30155,25/10/2022,294,Los Angeles,Gold,2
+562,Eve,46,,,07/09/2019,422,newyork,Silver,1
+260,Charlie,,male,500000,29/07/2022,482,New York,Platinum,Mobile
+29,Charlie,31,male,,"Jul 29, 2019",4578,newyork,,1
+542,david,30,M,51061,"Jun 02, 2018",143,Los Angeles,P,1
+462,Charlie,111,Male,62701,"Sep 24, 2019",292,losangeles,gold,1
+740,FRANK,,M,70K,"Feb 23, 2018",106,NYC,S,1
+466,david,,Male,70K,28/12/2021,366,New York,Platinum,Mobile
+607,,41,Male,75898,23/03/2023,213,newyork,,Online
+398,alice,54,Male,38753,"Jul 14, 2018",123,losangeles,gold,2
+206,Charlie,57,M,62800,14/10/2019,47,losangeles,Gold,2
+580,Eve,,f,70K,11/03/2019,488,losangeles,P,3
+75,,29,female,73495,"Jul 21, 2019",,New York,P,3
+508,,49,male,70K,31/01/2021,,NYC,P,1
+992,alice,,f,1000000,"Jan 29, 2021",34,Los Angeles,,2
+444,Bob,,Male,50k,"Sep 09, 2021",161,losangeles,Gold,In-Store
+382,Bob,38,female,68274,06/04/2020,107,LA,G,In-Store
+380,,65,M,58125,04/12/2022,90,losangeles,Silver,Mobile
+245,Eve,18,male,97493,"Nov 14, 2019",3223,New York,SILVER,Mobile
+870,FRANK,32,,33924,08/10/2018,449,Los Angeles,SILVER,Online
+395,alice,65,M,50k,19/04/2023,109,Chicago,S,Online
+178,alice,42,F,86951,03/09/2020,244,LA,Platinum,2
+473,FRANK,139,female,,10/01/2020,103,Los Angeles,,3
+513,Alice,21,f,"30,000",26/06/2019,218,Los Angeles,SILVER,Mobile
+114,Bob,146,Male,48163,23/02/2021,345,Los Angeles,SILVER,In-Store
+555,alice,89,M,96373,11/12/2018,19,Los Angeles,Platinum,In-Store
+799,FRANK,,Male,39670,11/03/2021,128,newyork,P,Mobile
+260,Bob,81,female,30281,04/02/2018,8385,LA,SILVER,In-Store
+274,,30,female,49436,21/12/2021,7810,Los Angeles,Gold,3
+872,david,20,male,"30,000",15/05/2023,,Chicago,Silver,1
+944,,35,,"30,000","Jan 11, 2018",7492,newyork,Platinum,3
+805,david,107,F,,03/02/2022,,Chicago,Platinum,3
+201,alice,28,F,90643,03/05/2019,26,newyork,SILVER,Mobile
+195,Eve,36,M,89174,09/06/2021,,New York,Gold,In-Store
+628,FRANK,68,,99574,"Dec 16, 2020",6141,New York,gold,1
+499,Eve,54,M,-10000,08/04/2020,301,losangeles,Platinum,2
+244,FRANK,,,,"Aug 13, 2019",205,Los Angeles,Silver,In-Store
+454,Charlie,,f,,20/10/2022,1821,NYC,G,3
+603,alice,108,,1000000,2021-13-40,463,newyork,S,In-Store
+191,FRANK,,male,45562,23/08/2018,2469,LA,P,In-Store
+36,Alice,53,female,70K,"Mar 10, 2022",8983,LA,Silver,Online
+918,Alice,45,f,63081,26/03/2021,€100,NYC,P,2
+6,Bob,,female,67443,03/04/2021,248,newyork,,Online
+976,alice,18,female,79745,25/05/2019,106,New York,Silver,Mobile
+493,Alice,,male,35127,18/04/2019,164,chicago,gold,In-Store
+514,Bob,67,Male,78328,06/02/2022,440,losangeles,S,2
+528,Charlie,125,F,67432,30/09/2018,39,Chicago,P,3
+495,alice,15,Male,66135,19/08/2018,126,losangeles,S,Online
+758,alice,49,female,,08/01/2022,,newyork,P,1
+392,Alice,,,,29/01/2018,494,New York,G,Online
+59,,64,F,67486,27/02/2019,93,NYC,G,Mobile
+21,david,81,M,70K,23/01/2022,427,newyork,P,3
+566,Charlie,33,male,50k,28/10/2019,,Los Angeles,Silver,Mobile
+573,Eve,48,,1000000,"Nov 28, 2020",5592,chicago,gold,1
+698,Charlie,,M,94624,17/02/2019,210,Chicago,,3
+530,Eve,65,,90466,25/12/2019,102,Los Angeles,Platinum,In-Store
+727,Bob,47,male,73427,24/10/2022,€100,NYC,,1
+435,FRANK,63,F,"30,000","Apr 28, 2023",111,chicago,Silver,Online
+999,Eve,,f,50k,01/06/2019,78,chicago,Gold,Online
+230,Bob,,F,70K,21/11/2018,,LA,G,Mobile
+666,FRANK,,male,64770,04/09/2022,329,losangeles,gold,1
+730,Charlie,39,female,35461,"Dec 09, 2020",14,LA,S,3
+59,Alice,99,M,73543,"Aug 15, 2018",18,newyork,,2
+245,,,male,86194,27/07/2019,179,NYC,S,Online
+820,Eve,,f,95499,29/01/2018,303,New York,SILVER,Online
+434,david,148,f,-10000,20/12/2020,120,Chicago,G,Mobile
+329,,,,43581,"Dec 14, 2019",459,newyork,Silver,Online
+924,Bob,61,,500000,09/07/2020,127,LA,Silver,3
+436,Bob,88,,35832,19/07/2019,122,NYC,G,3
+178,Alice,47,f,54521,07/07/2019,139,Los Angeles,SILVER,Online
+503,david,41,Male,,2021-13-40,249,chicago,gold,Online
+661,alice,,female,-10000,26/04/2019,$120,losangeles,Platinum,Online
+550,Bob,,M,36567,27/04/2023,353,NYC,S,1
+249,Charlie,67,M,76547,"Jan 17, 2022",411,newyork,gold,3
+266,david,,female,41880,13/11/2021,€100,newyork,,In-Store
+991,alice,,f,37351,"Sep 10, 2021",234,Chicago,S,1
+256,Alice,,Male,,11/02/2018,82,chicago,SILVER,Online
+554,Alice,47,M,,18/12/2022,£90,NYC,,Online
+69,FRANK,,,75359,"Aug 03, 2019",6691,Los Angeles,Silver,2
+323,Bob,98,f,36705,01/04/2022,137,NYC,Platinum,Online
+892,,6,female,92999,18/12/2020,98,chicago,Platinum,In-Store
+780,Charlie,105,F,58455,"Feb 10, 2018",338,losangeles,Gold,1
+942,alice,50,f,64146,26/04/2022,117,Los Angeles,P,Mobile
+840,Bob,,,97526,03/01/2018,50,Chicago,Silver,2
+888,david,126,male,"30,000","Aug 11, 2018",476,newyork,SILVER,2
+217,,148,F,25929,"May 20, 2020",386,Chicago,SILVER,3
+4,Bob,69,M,66525,11/07/2019,5232,LA,Platinum,In-Store
+268,Bob,47,f,1000000,"Oct 03, 2021",$120,chicago,P,3
+26,Bob,35,F,70K,24/08/2020,24,losangeles,SILVER,Mobile
+699,FRANK,22,Male,57917,28/10/2019,148,newyork,Platinum,1
+554,FRANK,,,-10000,01/01/2020,33,Chicago,G,Mobile
+754,Eve,27,M,44045,"Dec 26, 2020",286,LA,gold,2
+903,Charlie,,male,"30,000",01/06/2020,244,Chicago,S,1
+977,,65,,39956,31/07/2018,494,NYC,S,2
+92,Charlie,61,f,97798,10/11/2022,1268,newyork,,In-Store
+712,Charlie,78,male,70K,24/04/2020,242,New York,SILVER,In-Store
+85,Bob,-5,,"30,000",22/06/2023,500,Chicago,gold,Mobile
+160,Alice,30,f,1000000,29/03/2019,348,NYC,P,Mobile
+725,Charlie,,,77486,18/07/2018,159,chicago,SILVER,2
+618,alice,75,male,86672,24/02/2023,461,Los Angeles,gold,2
+209,FRANK,,f,70K,29/07/2019,39,New York,Platinum,3
+692,david,73,f,50443,"Jul 11, 2018",£90,New York,gold,In-Store
+156,Charlie,,Male,84656,06/06/2021,479,newyork,P,Mobile
+407,,107,,26329,28/05/2019,348,LA,Gold,1
+813,alice,23,,"30,000","Nov 12, 2021",,losangeles,S,Online
+769,david,28,male,,08/09/2021,£90,newyork,Gold,2
+264,Bob,85,,"30,000",29/09/2020,435,LA,G,In-Store
+733,Bob,67,F,57389,"Dec 23, 2022",£90,New York,G,Online
+53,Charlie,62,f,70340,28/10/2020,9113,Los Angeles,gold,Mobile
+589,Bob,28,F,43385,23/07/2019,432,newyork,,2
+454,,127,M,25496,"Dec 16, 2019",221,NYC,gold,1
+638,FRANK,,,76431,13/02/2021,328,NYC,Platinum,1
+336,,62,f,,19/07/2018,3996,losangeles,,2
+200,FRANK,33,,95384,30/01/2019,35,Los Angeles,gold,Online
+344,Charlie,38,male,70K,25/04/2019,194,losangeles,SILVER,Mobile
+756,david,56,Male,65527,06/02/2019,9873,losangeles,gold,1
+525,Eve,,female,41704,28/08/2019,284,New York,Silver,In-Store
+363,Bob,,F,57728,09/07/2020,$120,losangeles,SILVER,3
+447,david,38,M,83784,06/03/2018,8686,NYC,SILVER,2
+254,Eve,,F,500000,22/01/2022,3430,LA,P,1
+811,Alice,126,f,57811,"Mar 30, 2022",268,Los Angeles,Platinum,3
+358,Eve,-4,F,99451,03/06/2020,102,newyork,Gold,1
+259,david,27,M,50366,04/09/2022,172,NYC,SILVER,Mobile
+573,david,38,,70K,16/01/2018,1657,NYC,,3
+279,,,F,32579,27/12/2020,6623,LA,Silver,In-Store
+42,Eve,65,F,92373,03/01/2023,211,Los Angeles,P,In-Store
+449,Alice,,Male,,15/04/2022,,New York,P,Online
+989,david,,female,23584,11/11/2018,374,chicago,SILVER,In-Store
+64,alice,,f,50k,15/04/2019,478,chicago,Gold,Online
+83,,25,M,,"Dec 01, 2020",,chicago,G,1
+550,Bob,26,M,,19/11/2018,494,newyork,G,3
+460,david,-4,f,20873,20/05/2020,258,LA,,In-Store
+447,alice,46,male,500000,16/06/2022,331,chicago,Platinum,3
+107,Bob,13,f,46626,17/06/2019,241,newyork,SILVER,1
+698,Alice,,,94863,23/06/2022,2250,losangeles,Silver,1
+769,FRANK,,female,78304,29/08/2019,61,LA,Silver,Mobile
+451,FRANK,32,F,,10/08/2020,53,newyork,Gold,In-Store
+585,Charlie,,Male,79486,25/08/2018,34,newyork,G,2
+517,,,male,34367,16/04/2019,281,NYC,Platinum,In-Store
+864,,39,M,78249,19/03/2020,£90,Los Angeles,S,Mobile
+909,FRANK,,,84651,04/01/2019,130,LA,Gold,1
+772,Charlie,,,31385,08/05/2019,362,losangeles,Platinum,2
+692,alice,41,female,56497,27/05/2021,,NYC,G,Mobile
+670,Bob,99,,50k,05/02/2021,423,newyork,gold,Mobile
+630,Alice,42,,30363,05/01/2021,1819,New York,,2
+740,Bob,78,Male,29745,12/11/2019,2211,LA,Silver,In-Store
+671,Alice,,,40542,01/04/2018,$120,chicago,Platinum,3
+379,Eve,,f,,13/09/2022,€100,chicago,Platinum,1
+533,david,96,M,56190,06/06/2022,418,New York,P,3
+320,Alice,,F,-10000,03/07/2018,4695,Chicago,P,In-Store
+373,Alice,45,f,,27/05/2018,3474,chicago,gold,Mobile
+946,,55,male,50k,24/01/2021,63,Chicago,Platinum,Online
+278,Eve,43,female,25027,22/10/2019,5125,Los Angeles,Platinum,Online
+844,,124,male,33164,"Jul 20, 2019",101,Los Angeles,Platinum,Online
+172,,141,F,,17/04/2022,6215,Los Angeles,Platinum,3
+523,,-9,f,44955,07/05/2022,262,newyork,gold,3
+156,Bob,59,F,,20/01/2022,98,Chicago,Gold,3
+213,Charlie,132,M,"30,000",04/12/2018,82,losangeles,G,3
+807,Eve,63,male,21044,25/01/2019,€100,NYC,S,In-Store
+56,Bob,37,male,37940,21/07/2018,137,losangeles,Platinum,Online
+891,Eve,131,male,70K,"Jan 08, 2021",295,New York,Silver,2
+483,Bob,,,45647,15/07/2021,$120,newyork,SILVER,1
+958,david,,f,81618,"Dec 25, 2019",20,losangeles,G,3
+745,Charlie,65,male,83505,"Aug 24, 2018",448,chicago,Gold,Online
+829,FRANK,19,f,85106,19/06/2019,86,LA,G,Online
+689,,,f,37274,23/07/2022,67,Chicago,G,Mobile
+797,Bob,58,Male,31627,26/03/2021,100,LA,G,3
+60,Eve,63,M,,05/12/2020,357,New York,Silver,3
+642,,,f,20419,"Aug 16, 2022",360,losangeles,SILVER,1
+893,david,59,,28816,03/06/2022,312,losangeles,,Online
+559,Alice,60,female,-10000,18/08/2020,7266,Los Angeles,Gold,Mobile
+843,david,,Male,50k,15/08/2020,475,newyork,gold,Online
+1000,Bob,138,f,25087,11/04/2018,388,losangeles,Silver,2
+715,,101,,54481,20/12/2022,364,Chicago,P,Online
+236,Bob,,,70K,"Jul 27, 2021",,chicago,Platinum,2
+119,alice,20,male,"30,000","Jan 22, 2022",113,newyork,,Mobile
+404,Alice,50,F,65705,09/04/2020,160,Chicago,Silver,Mobile
+917,Eve,,F,-10000,28/04/2019,236,newyork,Platinum,In-Store
+799,Charlie,27,f,50k,06/07/2019,166,New York,P,In-Store
+786,Bob,24,,50394,27/01/2020,,LA,S,1
+721,Alice,3,male,83577,10/08/2022,,Chicago,Gold,Online
+13,Charlie,,Male,-10000,08/02/2020,£90,chicago,gold,1
+632,Alice,2,Male,98360,22/03/2018,6416,newyork,P,3
+780,Charlie,,M,91226,02/03/2019,148,newyork,P,In-Store
+180,alice,22,F,1000000,20/10/2022,$120,losangeles,gold,3
+41,FRANK,67,male,48695,30/05/2022,15,LA,S,Online
+691,Eve,,Male,57653,14/05/2022,324,Los Angeles,G,3
+798,Charlie,,Male,78611,"May 05, 2018",7185,losangeles,SILVER,3
+861,FRANK,,female,52426,16/03/2023,,losangeles,SILVER,3
+424,Charlie,67,f,70K,02/06/2019,6723,NYC,Platinum,In-Store
+128,Eve,61,M,43094,18/02/2023,323,Chicago,gold,In-Store
+852,Bob,138,female,1000000,"Feb 10, 2022",107,newyork,SILVER,Mobile
+955,Alice,70,F,50k,11/08/2021,8343,newyork,SILVER,1
+112,FRANK,122,male,72178,28/08/2020,€100,newyork,Gold,3
+678,,114,f,83404,25/05/2019,3976,newyork,G,In-Store
+835,Eve,39,f,-10000,14/04/2022,228,losangeles,Silver,1
+850,Bob,,F,50783,12/05/2018,4427,New York,Silver,2
+722,Eve,,male,58132,14/11/2018,495,NYC,S,3
+930,Bob,,Male,86517,"Mar 30, 2020",6186,newyork,gold,In-Store
+313,alice,,Male,73609,"Dec 04, 2020",129,losangeles,P,Online
+785,alice,19,male,93696,21/11/2018,104,Chicago,SILVER,Online
+474,FRANK,47,F,54289,09/05/2020,€100,newyork,Platinum,Online
+309,Alice,70,F,70K,25/01/2022,€100,LA,S,Online
+838,alice,79,M,71298,"Sep 27, 2019",91,chicago,Platinum,3
+166,Charlie,62,f,1000000,24/11/2022,300,newyork,SILVER,Online
+107,FRANK,,female,54170,21/08/2019,18,Chicago,G,2
+655,Charlie,51,male,55168,"Apr 22, 2023",51,Los Angeles,Platinum,Online
+688,Eve,63,f,-10000,10/11/2022,188,LA,Gold,2
+557,Bob,65,f,64543,04/06/2022,,newyork,gold,2
+481,Bob,,F,50k,"Jan 26, 2020",82,New York,,2
+586,david,32,,78672,"Jan 18, 2019",3192,NYC,Platinum,In-Store
+159,Alice,31,f,49007,08/11/2022,344,newyork,Silver,Online
+901,Alice,45,,50k,20/08/2020,303,newyork,P,2
+563,Alice,113,f,,"Jun 11, 2022",87,Los Angeles,G,1
+490,david,20,f,34459,16/11/2020,5683,LA,Platinum,2
+284,Alice,,Male,"30,000",05/02/2022,46,NYC,Silver,Online
+993,alice,21,,36936,12/02/2021,483,LA,gold,3
+68,FRANK,34,F,"30,000","Jul 19, 2019",121,newyork,S,Online
+568,,37,,22767,02/10/2018,87,New York,Platinum,Mobile
+507,Charlie,,,31829,28/11/2021,6205,New York,S,2
+531,Charlie,31,f,66229,28/11/2019,397,Chicago,S,Online
+922,Alice,29,F,,01/08/2021,7590,Chicago,G,In-Store
+973,,,M,26450,20/08/2019,233,newyork,G,2
+326,david,138,f,,19/03/2019,247,chicago,P,3
+914,FRANK,,f,67460,"Aug 15, 2022",3525,New York,P,In-Store
+900,david,67,F,,"Dec 13, 2020",7694,newyork,Platinum,Mobile
+874,,50,M,40577,15/12/2022,433,Chicago,SILVER,3
+34,FRANK,24,Male,,31/03/2019,5860,Chicago,gold,Mobile
+255,Eve,,Male,50059,04/07/2018,3947,New York,SILVER,Online
+907,Bob,30,Male,41155,20/07/2020,230,LA,Gold,Mobile
+650,FRANK,66,Male,63450,01/06/2022,48,losangeles,Gold,2
+220,Bob,64,Male,48261,27/05/2021,349,New York,Silver,2
+145,Alice,111,F,,07/07/2018,329,losangeles,,In-Store
+604,Charlie,62,f,21787,03/10/2018,,Chicago,S,2
+321,david,46,f,22625,08/04/2019,340,Los Angeles,Gold,3
+274,Alice,87,female,,17/10/2022,6564,newyork,G,Online
+935,,31,male,85732,13/05/2023,109,NYC,S,2
+249,Bob,18,Male,83556,07/06/2021,380,chicago,S,3
+511,alice,25,female,40571,02/11/2019,124,LA,gold,In-Store
+142,Eve,24,female,59513,22/05/2023,9819,New York,Silver,Online
+631,Eve,,female,50147,2021-13-40,32,New York,SILVER,Mobile
+952,FRANK,,F,"30,000",14/01/2019,303,Los Angeles,SILVER,3
+61,Bob,11,M,24427,19/07/2022,,NYC,SILVER,In-Store
+361,alice,19,f,36206,17/11/2019,370,New York,,3
+449,Alice,,f,72527,19/09/2018,42,NYC,Platinum,1
+871,FRANK,,Male,55389,"Feb 12, 2020",2371,Los Angeles,P,1
+219,david,,,30030,10/12/2021,445,Los Angeles,G,1
+12,Eve,64,female,86127,04/08/2019,58,losangeles,G,Online
+303,Eve,7,male,22641,03/02/2023,410,Los Angeles,,In-Store
+500,david,61,F,91001,12/12/2022,200,newyork,,1
+432,alice,,F,50k,"Jun 02, 2021",271,newyork,Silver,1
+13,FRANK,91,f,97095,29/04/2018,2845,newyork,Gold,In-Store
+787,alice,51,f,45465,26/05/2018,285,LA,SILVER,2
+399,david,91,F,70K,"Aug 02, 2021",455,chicago,P,3
+179,david,62,M,75725,22/08/2019,288,NYC,Silver,Online
+290,Charlie,65,female,,21/12/2020,284,NYC,Silver,2
+849,Alice,40,male,59603,24/02/2018,€100,Los Angeles,gold,Online
+933,,142,Male,80149,14/04/2020,467,Chicago,SILVER,In-Store
+150,Alice,49,M,33065,20/01/2022,63,New York,S,In-Store
+252,david,117,Male,95523,27/05/2021,2797,New York,SILVER,3
+747,FRANK,,f,1000000,"Jul 13, 2020",,Chicago,Platinum,3
+935,Alice,92,,76299,06/05/2020,144,New York,gold,1
+95,FRANK,144,,49131,28/03/2023,,newyork,S,2
+463,Alice,120,female,93530,"Oct 22, 2022",,chicago,P,Online
+302,,27,male,83353,02/01/2021,209,chicago,SILVER,Mobile
+963,Eve,54,F,89888,"Mar 29, 2018",166,New York,Silver,2
+723,Bob,,,,"May 13, 2022",438,losangeles,G,Mobile
+636,david,26,f,70123,01/04/2023,1015,Chicago,S,1
+594,david,65,Male,85147,02/06/2023,416,LA,gold,3
+647,,49,F,68855,16/07/2018,100,Chicago,gold,Mobile
+687,alice,,female,,23/05/2020,9232,NYC,SILVER,1
+586,Alice,29,,79279,18/04/2023,€100,Chicago,P,Online
+297,Charlie,57,female,95743,24/04/2018,9592,New York,,Mobile
+56,Eve,,,72081,25/03/2020,$120,chicago,,3
+582,Bob,123,,78600,12/04/2022,276,Chicago,P,In-Store
+174,Alice,68,female,82495,03/11/2021,407,newyork,S,Online
+873,david,117,F,50k,10/04/2023,336,Chicago,Silver,Online
+348,,,Male,70K,26/12/2018,154,LA,gold,Online
+970,FRANK,,female,38844,"Nov 29, 2019",393,Los Angeles,G,Mobile
+47,alice,-2,,50k,30/05/2020,406,losangeles,Gold,3
+668,Bob,88,female,93516,11/08/2018,315,New York,SILVER,2
+906,Bob,86,female,47221,20/09/2020,380,New York,Gold,In-Store
+500,Charlie,47,f,-10000,12/08/2021,121,losangeles,S,3
+953,,,,30995,"Dec 10, 2020",347,Los Angeles,SILVER,3
+660,Bob,,,72847,27/05/2023,67,chicago,Silver,In-Store
+341,Alice,115,f,70K,15/09/2019,3308,newyork,P,Online
+742,,,Male,,05/07/2020,424,Los Angeles,P,2
+188,Charlie,42,,50k,02/05/2019,101,LA,Platinum,1
+484,david,,,84673,13/02/2023,108,Chicago,Platinum,1
+857,Eve,,male,73983,11/03/2019,18,NYC,gold,In-Store
+588,Eve,,f,64285,12/06/2021,363,chicago,,2
+623,FRANK,28,Male,24785,"Sep 28, 2021",33,Chicago,Silver,1
+1,,57,male,94096,22/11/2021,93,newyork,Gold,2
+123,FRANK,,,70K,"Apr 08, 2018",5144,Los Angeles,,2
+832,FRANK,80,female,55146,04/04/2021,,NYC,S,Mobile
+617,alice,38,f,93716,09/08/2019,417,Los Angeles,,In-Store
+166,Eve,55,male,-10000,03/01/2022,154,Los Angeles,Gold,Online
+261,david,,Male,1000000,08/04/2021,£90,Chicago,Gold,2
+357,Bob,,female,50k,09/05/2021,2833,NYC,gold,2
+636,david,39,F,80472,18/03/2021,251,New York,,Online
+362,Charlie,78,,-10000,"Sep 07, 2021",8315,LA,P,3
+862,Bob,44,M,,07/08/2021,432,LA,Silver,Mobile
+665,Charlie,60,Male,33768,"Dec 05, 2020",311,NYC,gold,In-Store
+261,Bob,,Male,30158,"May 24, 2022",5549,Chicago,SILVER,3
+536,Charlie,6,male,36683,28/07/2021,9631,LA,Silver,1
+606,alice,25,female,41245,03/03/2021,343,newyork,gold,2
+671,alice,127,male,,"May 01, 2022",273,Los Angeles,S,In-Store
+669,FRANK,,f,41783,11/06/2022,66,NYC,gold,1
+837,,,male,77357,29/12/2022,,Chicago,gold,1
+864,Bob,44,Male,25119,15/09/2022,39,losangeles,SILVER,3
+634,FRANK,,female,84904,17/10/2018,458,LA,Silver,Mobile
+39,david,71,M,88758,20/02/2021,226,LA,Platinum,3
+616,alice,89,,500000,03/12/2021,20,NYC,P,Online
+936,Eve,15,,,26/08/2020,371,Los Angeles,,3
+534,alice,42,Male,72350,30/08/2018,41,chicago,Platinum,Online
+417,Eve,,Male,58895,15/06/2023,188,newyork,G,1
+277,Bob,,Male,77079,23/12/2018,392,chicago,gold,1
+706,Bob,83,female,55534,16/04/2023,286,chicago,Gold,1
+361,Charlie,,M,,"Mar 28, 2019",109,Chicago,P,1
+144,Eve,,M,68710,"May 18, 2021",,losangeles,,3
+884,Alice,63,female,"30,000",15/01/2023,106,chicago,gold,Online
+746,david,,male,38548,23/02/2021,11,Chicago,,2
+404,FRANK,,F,88583,07/08/2019,333,New York,P,1
+374,Charlie,,f,50k,21/05/2023,177,Chicago,gold,1
+103,Bob,,Male,"30,000",30/08/2018,148,Los Angeles,Gold,1
+65,david,39,male,88076,05/03/2021,463,LA,Platinum,In-Store
+4,FRANK,125,M,70K,29/01/2021,,LA,,3
+670,,43,Male,1000000,"Apr 12, 2022",291,newyork,S,2
+614,Alice,,female,63276,28/10/2018,488,New York,Platinum,2
+522,Eve,,,41527,11/07/2018,293,LA,SILVER,In-Store
+664,Eve,66,M,,07/12/2019,483,Chicago,G,1
+694,Charlie,128,f,500000,2021-13-40,441,NYC,S,In-Store
+822,Alice,96,female,74565,13/09/2020,3800,chicago,P,1
+627,,,F,39706,29/08/2022,2023,losangeles,Gold,2
+48,alice,47,male,500000,"Jul 12, 2022",240,losangeles,Platinum,2
+242,david,,female,60873,07/03/2023,283,NYC,,3
+894,Bob,,F,46118,"Jan 29, 2019",93,chicago,Gold,3
+610,alice,,f,90481,02/11/2018,€100,New York,G,Mobile
+708,Bob,109,M,1000000,"May 03, 2022",449,NYC,Platinum,Online
+890,Charlie,,female,28009,11/07/2019,100,chicago,Silver,Online
+824,Bob,,M,70K,02/09/2022,,Los Angeles,Silver,3
+223,Alice,64,female,50k,2021-13-40,461,newyork,gold,3
+79,Alice,41,female,65934,12/10/2022,,LA,S,1
+553,david,47,female,"30,000",02/02/2023,7313,newyork,SILVER,3
+190,Charlie,66,male,65214,23/04/2018,4339,New York,G,In-Store
+791,david,44,f,50k,13/04/2022,427,newyork,Silver,1
+578,,42,Male,55989,03/06/2018,€100,LA,Gold,1
+846,FRANK,,f,75858,"Jul 26, 2022",268,Los Angeles,Platinum,In-Store
+57,Bob,,,"30,000",14/08/2022,335,chicago,Gold,2
+679,Eve,50,Male,68139,16/05/2018,462,LA,Gold,In-Store
+663,Bob,33,male,70K,"Jun 07, 2021",9885,LA,G,In-Store
+392,Alice,30,Male,93546,13/07/2021,100,LA,Silver,1
+819,Bob,69,male,,21/10/2019,242,NYC,Gold,1
+837,david,133,male,"30,000",04/05/2022,136,chicago,G,1
+314,alice,45,M,30154,04/12/2020,292,newyork,,1
+720,Charlie,28,,50k,29/04/2023,407,Los Angeles,Platinum,2
+572,Bob,56,,48369,08/07/2021,10,LA,S,3
+921,FRANK,60,male,43373,25/01/2020,107,losangeles,S,2
+964,Bob,,male,93880,08/07/2019,349,Chicago,Gold,Online
+673,Alice,49,female,36607,21/06/2020,,losangeles,S,2
+817,alice,,female,,11/03/2020,112,Los Angeles,G,3
+396,Alice,6,male,"30,000",16/04/2023,377,Chicago,G,3
+748,Charlie,13,female,63274,26/01/2022,3496,LA,SILVER,In-Store
+49,,64,M,"30,000",23/04/2020,354,chicago,gold,1
+457,,,M,70K,07/12/2019,,New York,gold,3
+918,alice,,male,"30,000",08/07/2018,,newyork,SILVER,1
+626,Alice,,f,500000,19/08/2022,188,losangeles,G,Online
+717,,34,female,20350,06/03/2023,246,LA,Gold,1
+943,,33,F,48369,03/03/2021,2037,losangeles,Platinum,Mobile
+409,Charlie,70,Male,39200,24/06/2019,,Los Angeles,Platinum,In-Store
+456,FRANK,,female,41603,"Dec 09, 2020",€100,Chicago,P,In-Store
+964,david,50,M,500000,04/02/2019,217,newyork,Gold,2
+80,Charlie,31,M,30195,21/04/2019,€100,Chicago,gold,3
+784,Eve,44,F,37953,"May 09, 2023",58,New York,S,2
+222,Eve,94,f,,21/03/2023,1711,LA,gold,3
+971,alice,4,male,1000000,19/02/2023,396,chicago,SILVER,3
+959,Charlie,,F,70K,20/01/2021,7065,newyork,S,2
+807,Alice,,F,59656,24/02/2019,3736,Los Angeles,G,2
+509,david,,Male,,2021-13-40,335,Chicago,Gold,Online
+576,Eve,33,M,51558,19/08/2018,,LA,gold,1
+844,alice,,f,,"May 03, 2019",,NYC,Platinum,Mobile
+681,,41,F,69454,"Oct 12, 2020",448,New York,Platinum,2
+368,alice,59,f,82190,25/01/2019,5364,New York,Silver,2
+51,Alice,,male,60863,"Dec 31, 2022",404,losangeles,Silver,In-Store
+845,Bob,51,female,,28/04/2021,328,Los Angeles,,Mobile
+363,Eve,88,male,89558,"Dec 12, 2018",249,losangeles,G,2
+333,,,Male,99348,05/11/2022,8284,losangeles,G,2
+645,Charlie,25,f,41773,30/03/2018,69,chicago,G,Online
+317,,46,f,70K,07/08/2019,£90,LA,G,In-Store
+272,david,55,M,77310,"Feb 24, 2019",190,newyork,SILVER,Mobile
+643,david,50,f,,26/03/2020,7864,NYC,Gold,Mobile
+147,Alice,31,f,1000000,15/03/2023,9736,Chicago,Gold,2
+725,,,f,35760,26/02/2022,5046,LA,S,1
+211,FRANK,-2,male,,15/12/2018,,Los Angeles,Silver,1
+366,alice,115,f,65636,04/09/2022,189,losangeles,G,1
+656,alice,95,M,23315,04/12/2022,9150,New York,G,In-Store
+810,FRANK,63,female,81089,21/04/2021,386,New York,G,1
+431,FRANK,,f,70K,"Feb 01, 2019",1272,Los Angeles,Gold,Mobile
+733,,34,f,48020,18/06/2023,369,chicago,S,2
+587,Eve,,,"30,000","Jan 23, 2021",202,NYC,Platinum,1
+747,Charlie,,female,70129,03/10/2020,366,LA,G,1
+632,Alice,,female,43462,22/05/2020,283,Chicago,Gold,Mobile
+86,FRANK,,male,45668,09/01/2021,401,New York,gold,Online
+262,david,,F,1000000,03/10/2022,323,LA,Gold,2
+881,Alice,46,,,15/10/2019,304,chicago,gold,In-Store
+304,Eve,,male,20735,14/04/2019,80,Chicago,gold,2
+132,Alice,,M,70K,16/02/2018,239,NYC,Silver,Mobile
+193,alice,23,,32334,20/04/2021,167,LA,SILVER,3
+834,FRANK,,F,53260,14/03/2023,9310,Los Angeles,,2
+74,david,,F,,04/12/2021,3662,chicago,SILVER,Online
+118,Charlie,95,Male,99531,06/04/2023,176,LA,Silver,Mobile
+306,Bob,,female,24394,09/04/2020,318,LA,Silver,Online
+416,david,26,male,70K,"Feb 01, 2018",353,Los Angeles,gold,Online
+655,david,141,Male,70K,10/02/2020,331,chicago,Silver,3
+768,Eve,69,M,25756,18/09/2022,1147,New York,Silver,Mobile
+778,Alice,96,Male,55936,"Jul 12, 2021",£90,Chicago,G,Online
+149,david,90,female,50k,23/11/2018,463,Chicago,S,1
+876,,54,Male,50k,2021-13-40,306,NYC,G,Online
+446,FRANK,,f,-10000,18/11/2019,1368,chicago,,1
+130,Charlie,57,female,70K,"Nov 07, 2021",€100,losangeles,Platinum,Mobile
+905,Charlie,23,F,500000,04/11/2018,8785,Chicago,gold,1
+777,david,34,Male,-10000,27/04/2022,401,LA,Silver,2
+537,FRANK,148,M,"30,000",14/03/2021,7750,Chicago,G,2
+305,FRANK,56,f,25006,25/03/2020,312,chicago,Silver,In-Store
+268,Alice,23,Male,23779,10/05/2023,42,newyork,SILVER,2
+684,FRANK,54,M,"30,000","Dec 30, 2020",£90,Chicago,S,Online
+8,Charlie,124,M,43187,"Jun 30, 2021",7493,Los Angeles,Platinum,In-Store
+91,david,,,30855,13/11/2022,$120,Chicago,SILVER,2
+567,alice,49,M,35653,17/09/2018,,NYC,S,Mobile
+681,Eve,63,male,78114,24/06/2022,293,losangeles,G,1
+300,Charlie,58,,"30,000",17/11/2021,8492,LA,Silver,Mobile
+949,alice,116,,61187,15/01/2021,361,NYC,SILVER,Online
+105,Alice,26,male,91314,"May 10, 2021",9159,losangeles,G,2
+817,Bob,45,M,45451,21/08/2019,296,New York,,2
+770,Alice,38,Male,"30,000","May 25, 2021",361,New York,Platinum,1
+36,david,29,Male,63603,02/06/2021,5656,newyork,SILVER,Online
+541,david,64,F,70K,"Aug 04, 2019",151,chicago,SILVER,3
+299,Alice,148,male,96919,22/01/2021,498,chicago,P,Online
+408,alice,,F,87677,19/03/2022,,newyork,Platinum,Mobile
+417,Alice,61,Male,72844,22/06/2020,420,NYC,Gold,2
+703,FRANK,18,,28058,02/01/2019,9258,New York,G,1
+470,david,,Male,45289,02/04/2020,67,LA,SILVER,Online
+432,Charlie,,male,,06/02/2019,246,losangeles,,Online
+239,FRANK,142,female,54948,14/06/2021,157,New York,Platinum,3
+578,Charlie,,f,42621,17/05/2022,£90,chicago,Platinum,Mobile
+558,FRANK,3,M,500000,11/05/2018,6625,Chicago,Silver,Online
+954,Alice,110,female,99761,25/12/2020,214,New York,SILVER,Online
+816,Alice,,,86252,04/11/2018,9788,LA,G,3
+521,Charlie,65,,42671,11/01/2022,,Los Angeles,Gold,2
+220,Charlie,,F,"30,000","Sep 23, 2018",204,losangeles,S,In-Store
+237,Bob,67,Male,60784,06/02/2019,407,Chicago,Silver,Mobile
+942,FRANK,60,female,93473,"Mar 20, 2018",9744,Chicago,Platinum,Mobile
+276,Bob,,M,35429,02/01/2018,145,New York,P,2
+213,FRANK,29,f,81112,29/10/2021,171,losangeles,P,3
+359,,116,female,"30,000","Nov 25, 2021",415,New York,Silver,3
+614,Bob,47,,94211,"Sep 20, 2021",3730,Los Angeles,SILVER,In-Store
+136,FRANK,125,M,500000,10/03/2020,9433,Los Angeles,,2
+368,Eve,27,female,31870,11/11/2019,458,chicago,S,1
+17,FRANK,38,M,31326,04/03/2018,177,LA,G,2
+818,Charlie,,female,61615,17/01/2023,70,Chicago,P,1
+340,Charlie,100,Male,"30,000","Dec 03, 2019",93,Los Angeles,Silver,Mobile
+253,,146,Male,42195,09/01/2019,81,Los Angeles,S,3
+620,alice,70,male,48511,18/03/2020,$120,New York,Platinum,1
+441,FRANK,,M,70K,"Aug 20, 2022",214,Chicago,gold,Online
+113,Charlie,,,500000,21/05/2019,293,chicago,S,3
+728,FRANK,60,F,60341,"Feb 23, 2022",2002,chicago,G,In-Store
+800,david,30,male,"30,000",28/08/2022,440,Los Angeles,Platinum,3
+584,Charlie,32,M,37397,03/02/2019,,New York,Platinum,Online
+757,,48,,26990,"Dec 03, 2018",148,Chicago,S,In-Store
+501,Eve,109,f,57627,"Oct 25, 2021",,chicago,S,2
+598,Eve,25,f,56564,"Apr 09, 2022",193,NYC,gold,In-Store
+715,Charlie,,,94060,25/03/2023,,newyork,SILVER,Online
+272,Charlie,114,female,74261,"Apr 20, 2023",404,newyork,P,Online
+572,Alice,,female,44673,07/06/2023,10,newyork,Platinum,Online
+37,,21,female,46112,21/04/2021,,Chicago,G,3
+437,Alice,42,,58657,"Apr 01, 2019",,Chicago,S,In-Store
+102,Charlie,,F,77619,"May 20, 2022",4112,chicago,Silver,Mobile
+151,FRANK,,F,32112,29/10/2022,1674,LA,,3
+205,david,60,female,1000000,"Mar 12, 2020",257,NYC,Gold,Online
+154,Bob,,male,70K,03/05/2023,351,New York,Platinum,Online
+273,alice,67,M,88556,13/05/2023,,chicago,Platinum,3
+939,Charlie,44,Male,-10000,2021-13-40,,Chicago,SILVER,2
+20,FRANK,,f,50k,19/10/2019,326,losangeles,gold,1
+149,Bob,24,female,96706,"Aug 12, 2019",8761,Los Angeles,SILVER,3
+540,david,21,f,40408,"Feb 02, 2019",436,losangeles,P,Online
+579,FRANK,41,male,,03/09/2018,293,New York,S,1
+937,FRANK,38,f,50k,20/08/2018,222,Chicago,Silver,Mobile
+615,Charlie,,male,65471,04/12/2018,17,chicago,Silver,In-Store
+322,Bob,112,male,"30,000","Sep 03, 2022",483,Los Angeles,Platinum,2
+731,FRANK,,F,47190,06/07/2019,€100,Chicago,S,Online
+269,alice,-9,female,86029,16/01/2020,34,Los Angeles,G,1
+858,Alice,149,f,,"Jun 30, 2018",118,LA,SILVER,3
+633,Eve,38,M,31895,"Aug 09, 2018",357,newyork,P,3
+489,david,,Male,,19/02/2019,378,chicago,SILVER,2
+644,david,36,f,53844,"Dec 22, 2018",399,Chicago,Platinum,Mobile
+973,Bob,,f,81300,16/03/2019,7607,New York,Platinum,In-Store
+372,FRANK,56,M,24121,29/09/2022,313,losangeles,S,In-Store
+419,Eve,43,f,87768,22/05/2020,6830,losangeles,Silver,In-Store
+535,Bob,33,,"30,000",04/04/2018,4330,New York,S,In-Store
+648,Alice,19,male,82286,29/06/2019,476,LA,Silver,In-Store
+71,Alice,93,f,81242,10/08/2021,208,newyork,,1
+158,,59,female,70K,26/04/2022,59,newyork,Platinum,2
+842,alice,115,F,93894,26/12/2019,,NYC,G,In-Store
+347,,,f,97121,14/06/2021,402,chicago,,Online
+859,Charlie,23,F,62253,08/12/2020,4138,New York,S,3
+168,,14,male,67039,24/05/2021,£90,LA,Silver,2
+269,alice,41,F,40807,"Jan 14, 2018",5820,Chicago,G,Online
+82,,89,M,82324,"Apr 27, 2019",239,NYC,SILVER,1
+218,FRANK,,,64128,29/12/2022,1848,Chicago,Silver,In-Store
+186,,13,F,50k,15/02/2021,,chicago,Platinum,Online
+505,Bob,,female,66924,"May 11, 2023",£90,New York,P,Online
+167,alice,,M,41331,10/04/2021,344,Chicago,G,1
+246,david,45,M,-10000,10/07/2020,281,Chicago,SILVER,3
+827,Charlie,77,F,22850,02/11/2022,$120,Los Angeles,gold,In-Store
+482,alice,,female,-10000,"Dec 17, 2021",459,newyork,S,Online
+383,Bob,29,f,-10000,"Feb 26, 2022",1572,New York,P,In-Store
+140,Alice,51,,"30,000",27/11/2019,67,NYC,gold,Mobile
+219,Eve,109,male,72341,"Jun 20, 2022",4343,Chicago,G,In-Store
+141,Alice,112,M,500000,"Sep 20, 2022",200,newyork,P,1
+381,FRANK,,f,68918,"Sep 21, 2018",34,New York,Platinum,3
+165,Eve,,,70K,08/02/2023,148,chicago,Silver,3
+41,Bob,,Male,-10000,22/07/2022,165,Los Angeles,,1
+117,Bob,21,M,59344,22/02/2018,77,newyork,Silver,In-Store
+323,FRANK,20,F,50710,13/01/2018,1708,NYC,S,Mobile
+88,Charlie,98,,,"Jun 30, 2022",257,newyork,SILVER,3
+30,,,M,75179,16/04/2019,350,chicago,Silver,2
+977,Charlie,135,,55305,30/04/2019,498,NYC,SILVER,1
+197,Bob,,Male,70K,19/08/2022,296,newyork,Platinum,Mobile
+103,Bob,23,f,50k,"Nov 14, 2022",429,Chicago,,In-Store
+118,FRANK,25,Male,87135,"Jan 12, 2018",94,losangeles,S,1
+643,alice,36,Male,59397,11/03/2018,491,Los Angeles,,3
+532,Alice,11,f,"30,000",21/05/2020,203,Los Angeles,Platinum,3
+755,,66,male,,"Aug 05, 2019",413,chicago,Silver,Mobile
+111,Charlie,,Male,94447,30/11/2020,69,NYC,Gold,Online
+507,,149,male,37025,23/06/2021,476,chicago,Platinum,3
+187,Charlie,39,female,70K,27/05/2023,322,New York,gold,Mobile
+120,Alice,,Male,31848,15/01/2023,8146,Chicago,Platinum,1
+446,Bob,,Male,38541,23/08/2019,$120,LA,,3
+608,FRANK,,f,80124,14/01/2018,487,LA,G,Online
+389,david,-9,M,41671,21/11/2020,403,newyork,SILVER,3
+318,david,25,female,500000,13/08/2019,104,Chicago,P,Mobile
+997,,112,F,50k,23/05/2018,73,LA,Silver,Mobile
+472,Eve,,,42553,21/12/2018,1129,newyork,,1
+356,Eve,,,60308,25/01/2019,130,New York,gold,3
+139,Eve,,Male,44195,27/05/2021,487,Los Angeles,Platinum,2
+605,david,147,F,46649,14/08/2021,5831,Los Angeles,gold,Mobile
+497,Bob,91,f,31818,02/07/2021,$120,NYC,S,1
+427,Alice,23,female,40203,21/02/2022,265,Los Angeles,Silver,3
+741,,18,f,"30,000",30/11/2020,255,losangeles,,1
+585,alice,,male,20648,29/09/2020,165,LA,gold,Mobile
+932,Charlie,30,F,500000,06/02/2021,,New York,gold,Online
+608,Alice,,F,33095,26/12/2020,360,NYC,Platinum,3
+606,FRANK,,female,-10000,07/04/2020,200,LA,,1
+544,Alice,68,f,70K,29/12/2018,4650,losangeles,Silver,2
+800,,67,f,81906,10/09/2020,8161,Chicago,P,1
+5,Bob,111,female,70K,"Mar 10, 2022",97,chicago,gold,In-Store
+777,Eve,19,f,-10000,29/06/2019,444,New York,Gold,Mobile
+338,alice,103,Male,32559,13/11/2018,283,Chicago,Silver,3
+710,david,-5,F,36843,20/06/2021,170,newyork,Gold,Mobile
+869,Bob,55,Male,37501,08/05/2022,260,NYC,P,Mobile
+438,Alice,135,female,62875,08/09/2021,80,losangeles,Silver,Mobile
+986,david,21,male,75652,14/03/2020,180,chicago,P,In-Store
+700,Charlie,100,,70K,08/01/2019,121,Los Angeles,G,Mobile
+833,Eve,,f,,14/08/2021,95,New York,Platinum,Mobile
+341,Bob,131,Male,65464,25/07/2020,1923,losangeles,Gold,3
+485,alice,114,f,-10000,01/06/2022,389,LA,P,Online
+544,Bob,,F,50k,04/09/2021,211,newyork,G,Mobile
+981,Eve,,f,99760,12/03/2023,347,LA,Gold,1
+31,,70,female,50822,20/12/2018,494,Los Angeles,gold,3
+108,alice,,f,67484,06/03/2021,486,LA,SILVER,1
+336,alice,,M,85726,11/12/2022,485,Los Angeles,,2
+104,Eve,38,male,98534,09/02/2022,$120,New York,Platinum,2
+201,Bob,96,f,30127,08/09/2021,3345,newyork,P,3
+128,,,f,50k,29/04/2019,8590,NYC,,1
+908,Charlie,78,,85529,"Dec 08, 2018",$120,chicago,Gold,Mobile
+155,FRANK,62,female,25799,09/12/2021,405,NYC,,2
+512,,,f,59575,19/10/2022,284,Chicago,G,In-Store
+948,FRANK,110,female,32170,"Apr 09, 2023",9938,chicago,Platinum,3
+702,Charlie,,Male,70340,08/09/2018,326,New York,SILVER,3
+376,alice,,female,50k,06/08/2020,294,Chicago,Silver,Mobile
+825,Alice,,F,39758,14/07/2022,374,Chicago,gold,2
+288,Eve,60,male,60775,14/04/2023,6263,LA,G,In-Store
+919,alice,89,f,83000,"Jun 19, 2019",,Los Angeles,gold,Mobile
+937,alice,82,,54212,06/05/2023,97,NYC,SILVER,2
+687,Eve,,female,43529,24/01/2022,309,losangeles,Platinum,3
+393,david,,male,72194,2021-13-40,6001,New York,Silver,In-Store
+510,Eve,,male,"30,000",15/03/2021,358,NYC,SILVER,3
+224,Alice,48,Male,80938,28/11/2018,81,Chicago,P,Mobile
+640,Charlie,,M,65388,27/09/2021,61,LA,Platinum,3
+695,Bob,15,,"30,000",09/02/2023,69,newyork,G,2
+492,Bob,49,male,73015,15/03/2019,,NYC,S,1
+825,FRANK,31,female,41087,"Aug 02, 2022",260,losangeles,SILVER,3
+125,,81,M,36874,03/05/2023,324,New York,G,In-Store
+202,david,40,Male,"30,000",27/02/2018,239,Los Angeles,G,1
+324,Alice,70,F,79597,17/01/2020,38,chicago,Platinum,1
+339,,6,F,83719,27/01/2022,479,New York,SILVER,In-Store
+380,,,F,"30,000",21/12/2018,280,NYC,S,1
+111,alice,,male,75372,28/06/2019,1772,chicago,Platinum,1
+890,david,114,M,59708,09/04/2023,167,New York,Silver,Mobile
+957,alice,39,Male,53901,02/11/2020,2519,newyork,Silver,2
+842,Eve,132,M,50k,"Mar 08, 2019",239,Chicago,gold,Mobile
+868,Bob,,f,70K,02/01/2020,€100,LA,P,In-Store
+726,,,male,,31/12/2020,251,New York,G,In-Store
+883,Alice,102,,82068,24/06/2022,401,chicago,SILVER,Online
+350,Charlie,66,female,90126,"Jul 24, 2019",336,New York,Gold,3
+947,Bob,,,34637,05/03/2020,192,Los Angeles,Silver,1
+194,alice,,,75583,"Oct 18, 2022",162,New York,Platinum,1
+390,Charlie,20,,,"May 17, 2018",£90,New York,SILVER,Mobile
+834,Charlie,28,Male,30486,30/11/2018,67,NYC,,2
+654,david,,M,20911,14/03/2021,$120,chicago,gold,1
+693,david,,M,97352,02/11/2018,307,newyork,gold,Online
+607,Charlie,49,F,45901,"Feb 03, 2022",369,Chicago,G,2
+498,Alice,83,M,,"Jul 09, 2018",8527,newyork,Platinum,2
+969,,70,M,"30,000",22/07/2019,143,newyork,Platinum,Mobile
+181,Bob,102,male,1000000,14/08/2022,443,Chicago,SILVER,In-Store
+170,,67,Male,80917,26/03/2021,4328,newyork,P,In-Store
+482,david,111,f,25222,19/06/2018,180,LA,gold,3
+271,Charlie,36,f,84175,20/10/2020,260,LA,Platinum,1
+739,Eve,58,female,1000000,24/08/2018,,losangeles,P,2
+439,FRANK,96,F,98555,20/07/2021,,New York,Gold,2
+995,Bob,58,male,70K,25/08/2018,123,New York,Platinum,In-Store
+371,Bob,125,M,75797,11/11/2022,73,chicago,,3
+571,,68,f,58816,22/03/2022,,newyork,Silver,3
+488,,99,female,91139,25/05/2021,225,losangeles,Silver,Mobile
+53,FRANK,,,43426,23/02/2020,457,newyork,S,Mobile
+713,Eve,68,Male,66777,14/02/2023,362,chicago,Silver,In-Store
+677,alice,46,F,22296,18/06/2021,132,LA,gold,3
+65,Alice,63,female,1000000,"Jan 20, 2022",9538,NYC,Gold,1
+139,,76,,24668,11/03/2023,3985,NYC,gold,2
+469,Bob,32,F,50k,10/02/2019,489,Chicago,Platinum,3
+121,,21,Male,24798,17/03/2021,272,New York,gold,Mobile
+293,Charlie,,M,,22/11/2019,£90,Chicago,G,2
+450,Charlie,123,Male,52588,14/09/2021,,NYC,S,Online
+146,Bob,,female,31016,"Dec 01, 2022",425,Chicago,Gold,Mobile
+15,Bob,131,F,,01/08/2018,,NYC,gold,Online
+968,Bob,70,M,36522,01/08/2019,190,newyork,Platinum,3
+206,Eve,,M,84677,06/08/2019,255,chicago,Silver,Mobile
+472,FRANK,,M,56004,30/10/2021,,Chicago,SILVER,Mobile
+135,,,Male,80035,"Oct 15, 2018",$120,Chicago,Gold,Online
+205,Eve,,Male,50k,"Mar 26, 2021",156,newyork,gold,Mobile
+44,,,M,,"Nov 04, 2018",,New York,Silver,3
+693,alice,,f,70K,05/02/2018,104,New York,Silver,Online
+132,alice,40,male,30031,"Jan 22, 2020",360,newyork,Silver,2
+461,Alice,,F,68863,16/09/2022,170,New York,SILVER,In-Store
+508,Charlie,,M,39234,16/02/2022,72,Los Angeles,SILVER,2
+248,Eve,,Male,"30,000","Mar 16, 2019",£90,NYC,Silver,Mobile
+925,,52,Male,50k,23/11/2021,219,chicago,P,1
+60,Charlie,,F,87191,09/05/2022,435,New York,Platinum,1
+898,,123,F,64272,18/07/2020,4484,newyork,P,In-Store
+765,Alice,66,male,"30,000",26/01/2019,383,Chicago,Silver,3
+972,,,Male,75381,"Jan 30, 2021",257,Los Angeles,SILVER,Online
+376,FRANK,51,female,22933,"Mar 04, 2020",,LA,,Online
+841,david,,female,53666,24/09/2018,61,LA,gold,1
+639,Alice,5,male,"30,000",16/06/2019,,LA,SILVER,In-Store
+461,alice,,F,76811,14/05/2022,2759,Los Angeles,Gold,Mobile
+412,Eve,40,Male,45119,13/09/2020,227,losangeles,,In-Store
+413,FRANK,21,F,70K,12/01/2020,8837,Chicago,SILVER,2
+939,Alice,,Male,87376,15/02/2021,159,newyork,gold,In-Store
+547,FRANK,106,male,,07/12/2018,455,LA,Gold,2
+776,Eve,,,26400,17/01/2022,264,losangeles,gold,Online
+434,Eve,,f,95148,01/11/2022,386,chicago,Platinum,3
+867,Eve,52,M,500000,24/09/2018,€100,New York,P,1
+243,alice,66,male,56016,23/12/2020,487,NYC,Silver,1
+81,Bob,,F,56287,19/06/2019,313,newyork,Gold,In-Store
+853,david,,F,,02/11/2021,311,New York,gold,3
+339,Charlie,65,M,50k,"Dec 25, 2021",168,LA,SILVER,1
+126,Eve,,M,70K,2021-13-40,117,newyork,,In-Store
+974,alice,82,M,57344,14/01/2020,79,LA,gold,2
+352,FRANK,,F,20662,01/03/2021,5209,newyork,gold,Mobile
+263,Eve,45,male,47149,"Jan 03, 2023",332,losangeles,Platinum,Mobile
+258,,5,female,74306,30/01/2020,144,Los Angeles,Gold,3
+569,Bob,26,,50k,"May 14, 2022",36,Chicago,SILVER,Mobile
+91,david,9,M,55003,20/05/2020,1475,New York,gold,3
+558,alice,124,Male,-10000,30/05/2019,67,NYC,Gold,3
+142,david,,F,70K,"Oct 08, 2018",282,newyork,Gold,3
+672,,91,f,49009,06/01/2018,6575,Los Angeles,SILVER,Online
+996,alice,,,22368,02/05/2018,$120,chicago,G,In-Store
+499,FRANK,,F,48974,19/11/2020,1277,losangeles,Gold,2
+176,Alice,49,male,57726,24/02/2018,,Los Angeles,G,Online
+933,Charlie,27,male,70K,25/07/2018,436,New York,,Online
+865,Bob,49,M,70K,13/04/2022,6576,newyork,,1
+494,Eve,,f,"30,000",17/05/2020,58,LA,Platinum,In-Store
+119,,44,F,90969,24/11/2020,286,chicago,Platinum,Mobile
+491,Charlie,,Male,82338,"Oct 04, 2021",7710,Chicago,gold,2
+630,Alice,133,M,,31/10/2018,9553,New York,Platinum,Mobile
+941,Charlie,144,,64951,"Aug 10, 2018",473,Los Angeles,,Online
+704,david,20,f,61896,07/08/2020,97,Chicago,Gold,Mobile
+744,david,54,male,78246,28/03/2018,5830,chicago,gold,Online
+230,Alice,51,Male,80548,20/05/2019,151,New York,Gold,3
+40,david,68,male,500000,"Apr 15, 2019",,newyork,Silver,In-Store
+1,Alice,65,M,,"Apr 08, 2018",,LA,SILVER,3
+664,alice,19,Male,71126,"Dec 22, 2020",327,Los Angeles,G,3
+227,Alice,140,male,72813,13/02/2019,8500,Chicago,gold,3
+2,FRANK,68,F,94883,12/12/2021,7073,losangeles,Silver,Online
+87,david,,F,83771,03/03/2021,$120,newyork,SILVER,Mobile
+595,Eve,49,f,,"Dec 24, 2020",,LA,,Mobile
+105,FRANK,53,M,30891,11/12/2021,431,New York,S,Online
+331,alice,96,Male,89414,13/10/2020,€100,losangeles,SILVER,3
+562,,,male,59850,23/02/2021,6710,losangeles,,In-Store
+766,Bob,76,f,61331,06/10/2021,,Los Angeles,SILVER,2
+830,Alice,48,male,-10000,17/11/2018,494,Chicago,G,Online
+974,david,,F,500000,13/09/2022,,LA,Gold,Mobile
+894,FRANK,107,f,96668,13/06/2020,441,NYC,Silver,In-Store
+790,alice,60,M,66088,13/04/2021,1841,chicago,S,Mobile
+309,alice,64,Male,70K,29/08/2022,83,losangeles,Silver,In-Store
+724,Charlie,,F,23068,30/08/2020,235,LA,gold,Online
+612,alice,94,F,92933,29/06/2019,8581,New York,Platinum,In-Store
+281,FRANK,91,female,500000,"Jul 25, 2018",,Los Angeles,Gold,1
+783,FRANK,,F,90463,07/07/2021,2212,Chicago,P,2
+218,Charlie,,,69601,17/06/2022,163,LA,gold,Mobile
+40,Eve,,f,50k,20/04/2021,,newyork,P,3
+366,Bob,,f,71871,"Sep 12, 2018",,NYC,gold,3
+561,Eve,,male,47696,"Mar 14, 2022",337,losangeles,Silver,3
+26,Alice,,M,94808,18/01/2021,8403,chicago,,3
+540,,53,,43412,"Feb 26, 2021",246,chicago,Platinum,In-Store
+474,Alice,,,72575,08/10/2019,484,Los Angeles,Gold,In-Store
+794,Charlie,,,,20/12/2021,394,losangeles,gold,1
+479,david,38,F,66140,19/12/2018,9669,LA,S,2
+7,david,50,female,74811,31/05/2021,478,Chicago,P,Mobile
+930,david,60,f,70K,02/09/2019,483,Chicago,gold,In-Store
+324,david,19,f,67602,19/03/2020,425,newyork,gold,Online
+891,Eve,138,,50k,20/08/2021,414,Los Angeles,P,3
+602,,,,"30,000",23/04/2021,416,newyork,gold,3
+999,Alice,,F,"30,000",25/07/2022,227,Los Angeles,Silver,Online
+956,Alice,20,male,85838,"Feb 13, 2021",$120,Chicago,G,Online
+313,alice,39,Male,,03/02/2023,,New York,gold,In-Store
+575,Charlie,,Male,,01/11/2018,277,Chicago,SILVER,In-Store
+899,Charlie,87,,49504,05/05/2023,52,Chicago,Gold,3
+538,Alice,23,Male,84858,"Mar 15, 2021",381,chicago,G,Mobile
+100,david,33,male,1000000,29/08/2022,336,Chicago,SILVER,2
+397,Eve,36,male,500000,13/06/2020,117,LA,P,Online
+235,Eve,67,M,72435,"Nov 11, 2021",,NYC,Gold,Mobile
+477,Eve,,female,20437,11/02/2023,,newyork,G,In-Store
+826,,,Male,,02/07/2020,395,losangeles,,1
+24,,38,,80820,"Aug 12, 2022",444,LA,,Mobile
+763,FRANK,4,f,50k,01/06/2020,,chicago,gold,In-Store
+134,alice,15,male,50k,14/08/2020,406,newyork,SILVER,1
+515,Eve,95,Male,96042,06/08/2022,305,newyork,gold,Mobile
+84,david,34,f,70K,21/04/2020,322,New York,gold,In-Store
+959,alice,21,,73778,15/09/2021,£90,LA,G,2
+221,Eve,,M,23806,"Sep 14, 2021",150,newyork,,1
+782,,,F,50k,22/03/2023,305,Chicago,P,3
+789,Bob,119,female,99915,02/11/2021,464,newyork,SILVER,1
+131,Alice,25,f,"30,000",12/01/2023,387,newyork,S,In-Store
+222,FRANK,,Male,98586,29/06/2020,3734,Chicago,G,3
+984,Eve,6,F,"30,000","Jan 05, 2021",237,newyork,P,Mobile
+394,Eve,,F,22992,06/11/2020,£90,New York,gold,Online
+623,Bob,-6,M,99929,10/10/2022,199,Chicago,Silver,3
+328,alice,,M,41818,16/03/2023,85,Chicago,Platinum,Online
+286,Bob,,F,"30,000",15/09/2019,,Chicago,P,2
+314,FRANK,22,Male,-10000,04/09/2018,483,NYC,,Mobile
+225,Eve,94,,68535,"Dec 15, 2022",309,chicago,S,1
+764,FRANK,23,F,98819,19/02/2022,123,Chicago,P,In-Store
+97,Eve,26,male,70K,"Jun 20, 2020",55,newyork,Platinum,2
+548,Eve,52,female,,24/01/2018,6129,Los Angeles,SILVER,In-Store
+187,Eve,,male,,"Feb 22, 2018",,losangeles,Platinum,2
+11,david,46,f,41152,07/05/2020,,Chicago,Silver,3
+44,Charlie,,female,1000000,27/09/2021,396,newyork,gold,3
+284,david,36,male,42965,04/01/2019,£90,Los Angeles,Silver,Mobile
+881,Alice,113,male,-10000,"Jun 24, 2018",403,Los Angeles,,Mobile
+742,,,M,62300,07/07/2018,6216,losangeles,gold,Mobile
+818,FRANK,,,58401,12/11/2020,74,chicago,Gold,Mobile
+196,Charlie,,Male,24048,"Apr 24, 2021",7464,Chicago,P,Online
+839,Alice,36,,95707,13/05/2021,392,chicago,SILVER,Mobile
+878,alice,,M,1000000,30/10/2020,72,chicago,gold,3
+198,Eve,22,f,99069,21/03/2022,4950,chicago,Platinum,1
+530,Eve,43,male,500000,04/10/2021,2307,newyork,gold,Online
+539,,132,f,80477,"Apr 13, 2018",137,losangeles,SILVER,2
+104,,,,,28/12/2019,,Chicago,G,3
+975,,,F,50k,14/06/2019,446,New York,Silver,Online
+526,Alice,,male,70K,17/05/2020,8771,LA,G,2
+506,david,46,F,52094,01/04/2018,78,NYC,gold,In-Store
+993,FRANK,72,f,-10000,08/08/2021,6163,Los Angeles,S,Mobile
+543,david,,,20902,05/08/2019,72,LA,SILVER,Online
+293,alice,,,73260,"Feb 12, 2020",380,newyork,Gold,Online
+940,FRANK,,Male,,22/03/2023,31,New York,gold,1
+317,Eve,48,f,1000000,26/10/2022,1967,LA,Silver,3
+812,Charlie,34,f,74668,03/08/2021,,Los Angeles,gold,Mobile
+811,Charlie,115,female,90430,12/03/2023,433,NYC,S,Mobile
+23,Eve,,female,99557,03/08/2019,,losangeles,Silver,Mobile
+343,Bob,,male,"30,000","May 25, 2019",448,Los Angeles,S,Mobile
+436,alice,,male,77477,29/05/2020,,Los Angeles,Gold,3
+645,Charlie,80,,-10000,"Nov 13, 2020",31,NYC,Platinum,In-Store
+471,Eve,143,female,58399,28/06/2020,177,newyork,Platinum,3
+795,Charlie,,f,25230,24/11/2019,460,newyork,G,1
+162,FRANK,21,f,72354,"Nov 24, 2018",163,Chicago,Platinum,3
+433,Bob,39,male,,13/05/2019,375,New York,gold,Online
+136,david,,male,"30,000",2021-13-40,$120,New York,Platinum,1
+549,FRANK,,Male,1000000,05/06/2023,45,New York,,In-Store
+822,david,63,male,33582,30/03/2020,487,NYC,SILVER,1
+647,Eve,,F,54406,08/12/2022,,LA,S,In-Store
+649,,37,Male,50k,14/06/2019,$120,LA,S,2
+983,FRANK,49,M,68033,22/03/2022,397,New York,G,Online
+684,FRANK,,male,64542,20/05/2018,81,chicago,S,1
+470,Eve,63,male,51859,03/09/2022,$120,Chicago,G,1
+115,Eve,,F,500000,01/06/2018,363,newyork,P,In-Store
+590,alice,18,Male,32730,20/08/2018,270,NYC,SILVER,In-Store
+574,Bob,118,female,29708,28/03/2022,7569,LA,gold,1
+727,alice,28,male,-10000,24/11/2022,5019,Los Angeles,Gold,Mobile
+665,Alice,,Male,500000,10/08/2018,190,New York,G,1
+403,Bob,,,64884,13/01/2022,418,LA,S,Online
+450,alice,,Male,78284,01/12/2019,1988,NYC,SILVER,In-Store
+141,david,26,F,79031,"Mar 31, 2018",330,Los Angeles,P,Online
+410,Bob,34,F,94479,12/11/2020,288,LA,gold,3
+311,,51,female,97912,16/05/2022,457,NYC,P,Mobile
+553,Eve,,M,38352,"Jan 08, 2020",56,New York,,1
+778,,,f,88390,11/10/2020,334,Los Angeles,SILVER,Mobile
+947,Alice,133,f,23400,16/06/2021,240,chicago,,1
+335,Charlie,,male,68608,24/08/2021,5035,losangeles,,3
+995,Charlie,3,male,70K,"Nov 28, 2021",343,newyork,S,3
+494,david,94,M,60194,02/06/2022,450,chicago,Platinum,3
+94,FRANK,122,F,94401,10/05/2018,430,newyork,Platinum,In-Store
+351,,,F,70K,18/09/2020,132,New York,SILVER,1
+301,alice,,Male,-10000,"Sep 17, 2018",8984,Chicago,,Mobile
+248,Charlie,2,female,-10000,19/03/2021,4046,losangeles,Silver,Online
+147,FRANK,126,F,40242,13/05/2023,187,Chicago,Gold,In-Store
+328,Charlie,-9,f,39205,03/08/2020,61,LA,Gold,1
+400,Bob,30,Male,70K,13/06/2018,158,newyork,S,Online
+438,alice,,M,53725,24/11/2020,211,newyork,gold,2
+547,FRANK,32,Male,50k,"Sep 16, 2022",1697,LA,S,Mobile
+373,Charlie,33,M,47742,26/02/2023,3195,New York,Platinum,2
+430,FRANK,39,M,70K,"Apr 24, 2023",,losangeles,P,Online
+728,Alice,58,M,96576,16/06/2021,251,newyork,S,2
+759,Alice,112,M,54002,06/04/2021,$120,New York,Platinum,3
+334,alice,,f,86662,30/01/2021,$120,newyork,Silver,1
+748,Eve,150,F,,03/11/2020,288,Los Angeles,S,1
+709,david,34,male,82517,11/11/2021,7911,losangeles,S,In-Store
+302,Charlie,51,M,50k,"Apr 19, 2021",7196,Los Angeles,,Online
+929,Charlie,,Male,40431,04/07/2022,12,New York,SILVER,2
+955,alice,68,male,"30,000",10/06/2021,478,chicago,G,2
+948,Bob,,Male,88594,23/10/2021,161,Chicago,G,Online
+207,Charlie,,Male,69542,08/11/2021,276,Chicago,P,1
+775,,46,Male,-10000,20/05/2019,203,NYC,gold,2
+979,,23,f,88843,"Apr 02, 2018",141,LA,P,In-Store
+752,,,f,500000,29/08/2020,428,Chicago,G,Online
+164,,22,M,1000000,31/01/2022,7753,newyork,Platinum,2
+593,alice,69,male,28487,05/05/2021,27,New York,Platinum,1
+584,,,M,49468,06/10/2019,329,losangeles,G,In-Store
+467,Alice,45,F,47057,23/12/2021,€100,Chicago,S,Online
+355,Alice,,M,39672,"Apr 01, 2021",4354,newyork,Platinum,In-Store
+94,david,65,female,99775,12/05/2021,284,New York,S,2
+143,FRANK,,Male,45813,16/01/2018,5908,NYC,Gold,2
+443,Alice,66,F,85377,"Sep 05, 2021",434,chicago,SILVER,Mobile
+394,FRANK,56,male,-10000,"Sep 04, 2019",31,losangeles,Platinum,Online
+183,david,88,M,50k,24/08/2019,73,Los Angeles,Gold,1
+741,Alice,,F,,"Oct 29, 2021",106,New York,P,3
+765,Alice,15,M,46546,25/02/2022,9959,chicago,Gold,1
+814,david,-4,M,24304,20/04/2020,79,Chicago,Gold,Online
+267,david,,M,32955,"Jun 11, 2020",$120,Chicago,gold,Mobile
+288,FRANK,30,Male,86508,"Aug 07, 2022",145,NYC,SILVER,Mobile
+699,Eve,,Male,55582,"Nov 07, 2022",259,Chicago,SILVER,Online
+601,Charlie,22,f,,"Jun 26, 2020",116,losangeles,gold,3
+131,Bob,,Male,,01/03/2018,78,chicago,Silver,Mobile
+162,,55,f,,"Sep 24, 2019",,newyork,Gold,3
+776,Eve,,female,27336,29/01/2019,144,LA,Platinum,2
+889,Charlie,57,,-10000,"May 12, 2019",5246,New York,,2
+256,Bob,33,,,08/04/2020,5433,LA,Platinum,2
+99,Alice,22,male,52072,16/10/2022,$120,Los Angeles,G,In-Store
+941,Eve,,M,43944,"Nov 21, 2019",,LA,SILVER,In-Store
+495,Eve,81,M,50k,"Mar 23, 2020",4766,chicago,Gold,3
+89,alice,55,f,79777,12/12/2019,6193,LA,,3
+653,FRANK,110,,25273,19/01/2018,484,NYC,P,3
+542,,77,M,70K,18/01/2019,304,newyork,gold,1
+237,Charlie,,f,,26/08/2019,304,losangeles,Gold,1
+705,FRANK,55,,31974,23/06/2022,224,Los Angeles,Gold,In-Store
+736,alice,,female,28345,11/12/2022,€100,NYC,Platinum,3
+736,FRANK,98,female,88492,"Aug 28, 2020",365,Los Angeles,Platinum,Online
+199,david,,female,27977,"Apr 14, 2022",1058,chicago,,In-Store
+779,Charlie,7,M,49830,10/03/2020,3845,losangeles,Gold,In-Store
+190,,,male,96765,"Dec 29, 2018",268,Chicago,SILVER,Mobile
+991,Alice,,f,70K,24/07/2018,,NYC,gold,In-Store
+690,david,,M,500000,"Jun 15, 2023",490,New York,P,2
+564,david,,male,,24/11/2020,9341,New York,G,2
+441,Charlie,97,female,61793,13/01/2018,€100,chicago,,2
+319,david,16,F,50k,20/04/2021,396,chicago,G,Online
+965,Alice,0,Male,82691,09/10/2020,67,chicago,Gold,Mobile
+697,Charlie,,Male,77920,12/06/2018,435,Los Angeles,P,2
+866,Bob,48,male,82394,"Dec 13, 2022",285,newyork,Platinum,Mobile
+430,FRANK,57,f,33090,28/05/2022,$120,NYC,G,Online
+327,Alice,,f,,14/07/2019,$120,chicago,Silver,3
+651,,42,female,50k,11/01/2022,€100,losangeles,,Mobile
+555,Eve,-9,Male,70K,13/10/2022,20,New York,gold,3
+14,Alice,8,Male,94623,20/05/2020,7960,Los Angeles,gold,In-Store
+781,Alice,19,female,96246,16/08/2018,,Chicago,S,Online
+658,Bob,64,f,34617,"Dec 18, 2020",,NYC,G,In-Store
+570,Alice,139,,-10000,05/04/2022,413,newyork,G,Mobile
+207,Alice,20,male,97193,"May 30, 2020",397,New York,Silver,2
+920,Bob,30,male,"30,000",03/02/2022,439,newyork,G,In-Store
+452,,,f,500000,26/12/2020,407,losangeles,,1
+860,alice,,F,73368,19/12/2019,113,NYC,G,Mobile
+987,,33,Male,70K,27/06/2019,494,Los Angeles,G,Mobile
+437,Bob,35,Male,-10000,10/09/2018,312,chicago,G,Online
+331,Eve,,female,63075,"Dec 05, 2022",,Los Angeles,,3
+467,alice,,female,,"Mar 21, 2022",,Los Angeles,G,In-Store
+408,Charlie,18,M,-10000,16/10/2021,269,chicago,SILVER,2
+150,david,68,M,59274,"Aug 29, 2021",$120,New York,Gold,In-Store
+55,Alice,84,f,89755,"Aug 14, 2020",,Los Angeles,,3
+233,Eve,,F,64714,17/11/2022,€100,LA,SILVER,In-Store
+35,,149,,93566,07/06/2018,6884,newyork,P,Online
+477,Bob,63,male,,01/02/2019,,LA,S,In-Store
+448,Eve,27,female,77677,"Jul 05, 2020",384,LA,G,Mobile
+192,Charlie,126,f,43878,13/06/2021,119,LA,,In-Store
+62,,85,male,500000,25/06/2021,155,chicago,Silver,1
+66,Bob,,Male,86787,20/01/2023,€100,LA,S,Mobile
+865,Bob,,male,1000000,"May 13, 2019",434,New York,SILVER,Mobile
+210,Eve,,male,43435,21/10/2021,58,LA,Gold,1
+179,Bob,28,F,76625,04/03/2018,377,chicago,Gold,1
+117,Bob,,female,70K,10/02/2021,319,Chicago,SILVER,1
+828,alice,68,f,78090,06/08/2022,328,New York,gold,In-Store
+517,david,139,M,90594,26/12/2019,492,chicago,Gold,2
+386,david,10,,45374,05/05/2018,108,Chicago,,2
+210,Eve,68,,50382,03/03/2020,,newyork,SILVER,Online
+509,david,120,,60265,"Jun 07, 2019",7867,Los Angeles,P,Online
+286,FRANK,120,female,,03/02/2019,105,losangeles,gold,3
+458,,122,M,61945,12/06/2022,,NYC,Silver,Mobile
+502,Eve,,M,,21/01/2021,212,New York,S,Mobile
+564,Charlie,,F,500000,05/01/2023,188,chicago,gold,2
+519,Alice,116,f,70K,2021-13-40,413,Chicago,gold,Online
+52,alice,138,f,50k,23/10/2022,30,losangeles,Silver,3
+229,david,,Male,"30,000",04/01/2022,44,NYC,S,Mobile
+310,alice,20,F,62436,"Oct 31, 2020",3791,NYC,Gold,3
