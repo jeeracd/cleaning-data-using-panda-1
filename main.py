@@ -14,3 +14,6 @@ messyDataset["Income"] = messyDataset["Income"].apply(lambda x : incomeMode if x
 incomeAvg = messyDataset["Income"].mean()
 
 print(f"Average Income: {incomeAvg}")
+
+emptyCellsPct = (emptyCells / len(messyDataset)) * 100
+print(emptyCellsPct)
