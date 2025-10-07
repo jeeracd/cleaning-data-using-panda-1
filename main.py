@@ -6,6 +6,22 @@ messyDataset = pd.read_csv('messy_dataset.csv')
 emptyCells = messyDataset.isnull().sum()
 #print(empty_cells) # Prints number of missing values in each column
 
+uniqueGender = messyDataset["Gender"].unique()
+print(uniqueGender)
+print(messyDataset["Gender"].value_counts())
+
+uniqueCity = messyDataset["City"].unique()
+print(uniqueCity)
+print({len(uniqueCity)})
+print(messyDataset["City"].value_counts())
+
+
+
+messyDataset["Membership"] = messyDataset["Membership"].str.strip().str.title()
+
+print(messyDataset["Membership"].unique())
+print(messyDataset["Membership"].nunique())
+'''
 income = pd.to_numeric(messyDataset["Income"], errors='coerce')
 nonNumeric = income.isna().sum()
 print(f"Non-numeric Income entries: {nonNumeric}")
@@ -15,7 +31,9 @@ print(f"Non-numeric Income entries: {nonNumeric}")
 print(messyDataset.dtypes)
 stringColumns = messyDataset.select_dtypes(include=['object']).columns.tolist()
 print(f"String columns: {stringColumns}")
-'''
+
+
+
 messyDataset["Income"] = messyDataset["Income"].str.replace('k', '').str.replace(',', '').str.replace('K', '').astype(float) * 1000
 
 incomeMode = messyDataset["Income"].mode()[0]
