@@ -13,7 +13,20 @@ messyDataset["Income"] = messyDataset["Income"].apply(lambda x : incomeMode if x
 
 incomeAvg = messyDataset["Income"].mean()
 
-print(f"Average Income: {incomeAvg}")
+#print(f"Average Income: {incomeAvg}")
 
 emptyCellsPct = (emptyCells / len(messyDataset)) * 100
-print(emptyCellsPct)
+#print(emptyCellsPct)
+
+# find duplicate rows
+duplicates = pd.Series({col: messyDataset[col].duplicated().sum() for col in messyDataset.columns})
+print(duplicates)
+
+messyDataset = messyDataset.drop_duplicates()
+total_rows = len(messyDataset)
+nonDuplicates = messyDataset["ID"].nunique()
+
+print(f"ID count: {nonDuplicates}")
+
+duplicateNames = messyDataset.groupby("Name")["ID"].nunique()
+print(f"Same name, different ID: " , duplicateNames.sum())
