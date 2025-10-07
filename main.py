@@ -30,3 +30,17 @@ print(f"ID count: {nonDuplicates}")
 
 duplicateNames = messyDataset.groupby("Name")["ID"].nunique()
 print(f"Same name, different ID: " , duplicateNames.sum())
+
+#Get Range
+ageRange = messyDataset["Age"].max() - messyDataset["Age"].min()
+print(f"Age Range: {ageRange}")
+
+extremeValues = messyDataset["Income"].nlargest(5).tolist()
+print(extremeValues)
+
+messyDataset["Purchase_Amount"] = pd.to_numeric(messyDataset["Purchase_Amount"], errors='coerce')
+
+median = messyDataset["Purchase_Amount"].median()
+messyDataset["Purchase_Amount"] = messyDataset["Purchase_Amount"].fillna(median)
+messyDataset["Purchase_Amount"] = messyDataset["Purchase_Amount"].astype(float)
+print(messyDataset["Purchase_Amount"].describe())
