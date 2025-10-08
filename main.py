@@ -1,11 +1,22 @@
 import pandas as pd
 import numpy as np
+from sklearn.preprocessing import LabelEncoder
 
 messyDataset = pd.read_csv('messy_dataset.csv')
+
+le = LabelEncoder()
+messyDataset['PC_Encoded'] = le.fit_transform(messyDataset['Preferred_Channel'])
+print({cat: i for i, cat in enumerate(le.classes_)})
+
+print(f"One-hot columns: {messyDataset['Membership'].nunique()}")
+
+
+
 
 emptyCells = messyDataset.isnull().sum()
 #print(empty_cells) # Prints number of missing values in each column
 
+print(f"Gender categories: {messyDataset['Gender'].nunique()}")
 formatDates = messyDataset["Signup_Date"].unique()
 print(f"Different Formats: {len(formatDates)}")
 print(formatDates[:10])
@@ -17,7 +28,7 @@ print(f"Latest: {messyDataset["Signup_Date"].max()}")
 
 print(messyDataset["Signup_Date"].astype(str).str.contains('/').sum(), "dates with '/'")
 print(messyDataset["Signup_Date"].astype(str).str.contains('-').sum(), "dates with '-'")
-'''
+
 uniqueGender = messyDataset["Gender"].unique()
 print(uniqueGender)
 print(messyDataset["Gender"].value_counts())
@@ -98,4 +109,6 @@ messyDataset["Purchase_Amount"] = pd.to_numeric(messyDataset["Purchase_Amount"],
 median = messyDataset["Purchase_Amount"].median()
 messyDataset["Purchase_Amount"] = messyDataset["Purchase_Amount"].fillna(median)
 messyDataset["Purchase_Amount"] = messyDataset["Purchase_Amount"].astype(float)
-print(messyDataset["Purchase_Amount"].describe())'''
+print(messyDataset["Purchase_Amount"].describe())
+
+messyDataset.to_csv('cleaned_dataset.csv', index=False)
