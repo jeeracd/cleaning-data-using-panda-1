@@ -6,6 +6,18 @@ messyDataset = pd.read_csv('messy_dataset.csv')
 emptyCells = messyDataset.isnull().sum()
 #print(empty_cells) # Prints number of missing values in each column
 
+formatDates = messyDataset["Signup_Date"].unique()
+print(f"Different Formats: {len(formatDates)}")
+print(formatDates[:10])
+
+messyDataset["Signup_Date"] = messyDataset["Signup_Date"].str.replace('-', '/')
+
+print(f"Earliest: {messyDataset["Signup_Date"].min()}")
+print(f"Latest: {messyDataset["Signup_Date"].max()}")
+
+print(messyDataset["Signup_Date"].astype(str).str.contains('/').sum(), "dates with '/'")
+print(messyDataset["Signup_Date"].astype(str).str.contains('-').sum(), "dates with '-'")
+'''
 uniqueGender = messyDataset["Gender"].unique()
 print(uniqueGender)
 print(messyDataset["Gender"].value_counts())
@@ -21,7 +33,7 @@ messyDataset["Membership"] = messyDataset["Membership"].str.strip().str.title()
 
 print(messyDataset["Membership"].unique())
 print(messyDataset["Membership"].nunique())
-'''
+
 income = pd.to_numeric(messyDataset["Income"], errors='coerce')
 nonNumeric = income.isna().sum()
 print(f"Non-numeric Income entries: {nonNumeric}")
